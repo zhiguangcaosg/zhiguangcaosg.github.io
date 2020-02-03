@@ -1,7 +1,7 @@
 ---
 layout: home2
 title: Welcome!
-description: "Arda Senocak's website"
+description: "Zhiguang Cao's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image: banner1.png
 ---
