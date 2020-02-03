@@ -1,17 +1,17 @@
 title: Personal Web Page
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //ardasnck.github.io
+url:              //zhiguangcaosg.github.io
 #http://localhost:5000
 #https://www.ardasnck.github.io
 #disqus_shortname: ardasnck
 
 # Owner/author information
 owner:
-  name:           Arda Senocak
+  name:           Zhiguang Cao
   avatar:         arda.png
   bio:            PhD-candidate @ Robotics and Computer Vision Lab at <a href="http://kaist.edu"><b>KAIST</b>.
-  location:       Daejeon, S.Korea
+  location:       Singapore
   email:          arda.senocak@gmail.com
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
