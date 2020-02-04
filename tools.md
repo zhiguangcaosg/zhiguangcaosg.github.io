@@ -7,13 +7,11 @@ modified: 6-3-2018
 comments: false
 ---
 
-<ul style="padding-left:0px;">
+<ul style="padding-left:3px;">
 
 <li>	    
 <p>
-<b>Using Reinforcement Learning to Minimize the Probability of Delay Occurrence in Transportation,</b>
-<br><b>Zhiguang Cao</b>, Hongliang Guo, Wen Song, Kaizhou Gao, Zhenghua Chen, Le Zhang, Xuexi Zhang.<br>	
-<i>IEEE Transactions on Vehicular Technology</i> <b>(TVT)</b>, 2020. <a href="https://ieeexplore.ieee.org/document/8952783" target="_blank">[Link]</a>
+<b>Guest Editor</b>, <a href="https://ieeexplore.ieee.org/document/8952783" target="_blank"> Mathematical Problems in Engineering</a>, 2020.
 </p>	    
 </li>
 	    
