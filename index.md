@@ -4,24 +4,14 @@ description: "Zhiguang Cao's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image: banner1.png
 ---
-<h3 style="margin-bottom:0px;padding-top:20px;">Published/Accepted Papers</h3>
+<h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3>
 
-* **19-10-2019 One paper is accepted to TPAMI** <br>
-"Learning to Localize Sound Source in Visual Scenes: Analysis and Applications" is accepted to the Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+<p align="justify">I am currently a Research Assistant Professor with the Department of Industrial Systems Engineering and Management, National University of Singapore.  I got the PhD from the Interdisciplinary Graduate School,  and M.Sc from the School of EEE, Nanyang Technological University (NTU), Singapore. I got the B.Eng in Automation, Guangdong University of Technology (GDUT), China. I was a Research Fellow and Program Leader with the BMW@NTU Future Mobility Lab after PhD graduation, and I also hold an Associate Professor position with GDUT for a short period.</p>
 
-* **16-05-2018 Paper accepted to CVPR 2018 Sight and Sound Workshop** <br>
-"On Learning Association of Sound Source and Visual Scenes" is accepted as <b>Oral paper</b> to <a href="http://sightsound.org/">Sight and Sound Workshop</a> at CVPR 2018. 
+<br />
 
-* **16-04-2018 Selected to participate the ICVSS 2018** <br>
-Selected to <a href="http://iplab.dmi.unict.it/icvss2018/Home">International Computer Vision Summer School 2018</a> in Sicily, Italy.
 
-* **06-04-2018 One paper is accepted to CVPR 2018 Workshops** <br>
-"Part-based Player Identification using Deep Convolutional Representation and Multi-scale Pooling" is accepted as <b>Oral paper</b> to <a href="http://www.vap.aau.dk/cvsports/">4th International Workshop on Computer Vision in Sports (CVsports)</a> at CVPR 2018.
-
-* **19-02-2018 One paper is accepted to CVPR 2018** <br>
-"Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR 2018, Salt Lake City.
-
-***About Me***
+<h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3>
 <br>
 
 <p align="justify">I am a Ph.D. candidate in <a href="http://rcv.kaist.ac.kr"><b>RCV Lab</b></a>. at Korea Advanced Institute of Science and Technology (KAIST) under the advisement of Prof.In So Kweon. My research interests are in the areas of machine learning and computer vision, with a focus on multi-modal machine learning (audio-visual), deep learning and sports video analysis.</p>
