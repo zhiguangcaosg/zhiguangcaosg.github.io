@@ -11,7 +11,7 @@ image: banner1.png
 <br />
 
 
-<h3 style="margin-bottom:-2px;padding-top:20px;">Research Interests</h3> <br>
+<h3 style="margin-bottom:-8px;padding-top:20px;">Research Interests</h3> <br>
 <li>	    
 Artificial Intelligence
 </li>
