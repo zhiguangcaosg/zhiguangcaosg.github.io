@@ -30,9 +30,9 @@ comments: false
 <li>	    
 <b>Journal Reviewer</b>:
 	<li> IEEE Transactions on Intelligent Transportation Systems
-	<\li>
+	</li>
 	<li> IEEE Transactions on Intelligent Transportation Systems
-	<\li>	    
+	</li>	    
 </li>
 
 </ul>
