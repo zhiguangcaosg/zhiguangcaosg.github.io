@@ -17,11 +17,9 @@ comments: false
 	    
 <li>	    
 <p>
-<b>AATEAM: Achieving the Ad Hoc Teamwork by Employing the Attention Mechanism,</b>
-<br>Shuo Chen, Ewa Andrejczuk, <b>Zhiguang Cao</b>, Jie Zhang.<br>	
-<i>34th AAAI Conference on Artificial Intelligence</i> <b>(AAAI)</b>, 2020. <a href="https://aaai.org/Conferences/AAAI-20/"  target="_blank">[Link]</a>
+<b>Conference PC Member</b>, <a href="https://ieeexplore.ieee.org/document/8952783" target="_blank"> IJCAI2019</a>, <a href="https://ieeexplore.ieee.org/document/8952783" target="_blank"> IJCAI2020</a>.
 </p>	    
-</li> 
+</li>
 
 </ul>
 
