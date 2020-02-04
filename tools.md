@@ -11,13 +11,13 @@ comments: false
 
 <li>	    
 <p>
-<b>Guest Editor</b>, <a href="https://ieeexplore.ieee.org/document/8952783" target="_blank"> Mathematical Problems in Engineering</a>, 2020.
+<b>Guest Editor</b>, <a href="https://www.hindawi.com/journals/mpe/" target="_blank"> Mathematical Problems in Engineering</a>, 2020.
 </p>	    
 </li>
 	    
 <li>	    
 <p>
-<b>Conference PC Member</b>, <a href="https://ieeexplore.ieee.org/document/8952783" target="_blank"> IJCAI2019</a>, <a href="https://ieeexplore.ieee.org/document/8952783" target="_blank"> IJCAI2020</a>.
+<b>Conference PC Member</b>, <a href="https://ijcai19.org/" target="_blank"> IJCAI2019</a>, <a href="https://ijcai20.org/" target="_blank"> IJCAI2020</a>.
 </p>	    
 </li>
 
