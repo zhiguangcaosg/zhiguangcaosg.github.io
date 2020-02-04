@@ -12,14 +12,26 @@ image: banner1.png
 
 
 <h3 style="margin-bottom:0px;padding-top:20px;">Research Interests</h3>
-<br>
 <li>	    
 AI for Combinatorial Optimization
 </li>
 
 <li>	    
-<p>
-AI for Combinatorial Optimization
-</p>	    
+Intelligent Systems
 </li>
 
+<li>	    
+Routing and Path Planning
+</li>
+
+<li>	    
+Transportation
+</li>
+
+<li>	    
+Multiagent Systems
+</li>
+
+<li>	    
+Reinforcement Learning and Supervised Learning
+</li>
