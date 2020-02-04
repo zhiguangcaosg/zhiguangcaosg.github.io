@@ -17,7 +17,7 @@ Artificial Intelligence
 </li>
 
 <li>	    
-Reinforcement Learning
+Reinforcement Learning and Deep Learning
 </li>
 
 <li>	    
@@ -34,8 +34,4 @@ Multiagent Systems
 
 <li>	    
 Intelligent Transportation Systems
-</li>
-
-<li>	    
-Deep Learning
 </li>
