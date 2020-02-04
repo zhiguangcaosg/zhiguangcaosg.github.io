@@ -13,19 +13,19 @@ image: banner1.png
 
 <h3 style="margin-bottom:0px;padding-top:20px;">Research Interests</h3>
 <li>	    
-AI for Combinatorial Optimization
+Artificial Intelligence
 </li>
 
 <li>	    
-Intelligent Systems
+Reinforcement Learning
 </li>
 
 <li>	    
-Routing and Path Planning
+Routing and Planning
 </li>
 
 <li>	    
-Transportation
+Combinatorial Optimization
 </li>
 
 <li>	    
@@ -33,5 +33,9 @@ Multiagent Systems
 </li>
 
 <li>	    
-Reinforcement Learning and Supervised Learning
+Intelligent Transportation Systems
+</li>
+
+<li>	    
+Deep Learning
 </li>
