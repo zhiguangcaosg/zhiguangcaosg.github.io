@@ -21,7 +21,7 @@ Reinforcement Learning and Deep Learning
 </li>
 
 <li>	    
-Routing and Planning
+Routing and Scheduling
 </li>
 
 <li>	    
