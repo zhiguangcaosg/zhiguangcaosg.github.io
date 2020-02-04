@@ -1,7 +1,7 @@
 ---
 layout: home2
 permalink: /tools/
-title: Projects
+title: Services
 tags: [tools]
 modified: 6-3-2018
 comments: false
