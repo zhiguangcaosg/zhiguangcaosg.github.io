@@ -8,12 +8,13 @@ comments: false
 ---
 
 <ul style="padding-left:3px;">
-
+<!-----
 <li>	    
 <p>
 <b>Guest Editor</b>, <a href="https://www.hindawi.com/journals/mpe/" target="_blank"> Mathematical Problems in Engineering</a>, 2020.
 </p>	    
-</li>
+</li>  
+-->
 	    
 <li>	    
 <p>
