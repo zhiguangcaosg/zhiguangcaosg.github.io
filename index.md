@@ -21,7 +21,7 @@ Selected to <a href="http://iplab.dmi.unict.it/icvss2018/Home">International Com
 * **19-02-2018 One paper is accepted to CVPR 2018** <br>
 "Learning to Localize Sound Source in Visual Scenes" is accepted to CVPR 2018, Salt Lake City.
 
-**About Me**
+***About Me***
 <br>
 
 <p align="justify">I am a Ph.D. candidate in <a href="http://rcv.kaist.ac.kr"><b>RCV Lab</b></a>. at Korea Advanced Institute of Science and Technology (KAIST) under the advisement of Prof.In So Kweon. My research interests are in the areas of machine learning and computer vision, with a focus on multi-modal machine learning (audio-visual), deep learning and sports video analysis.</p>
