@@ -7,7 +7,7 @@ modified: 6-3-2018
 comments: false
 ---
 
-<ul style="padding-left:8px;">
+<ul style="margin-left:8px;">
 <!-----
 <li>	    
 <p>
