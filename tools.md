@@ -32,7 +32,31 @@ comments: false
 	<ul>
 	<li> IEEE Transactions on Intelligent Transportation Systems
 	</li>
-	<li> IEEE Transactions on Intelligent Transportation Systems
+	<li> IEEE Transactions on Vehicular Technology
+	</li>
+	<li> Transportation Research Part E: Logistics and Transportation Review
+	</li>
+	<li> IEEE Transactions on Automation Science and Engineering
+	</li>
+	<li> IEEE Transactions on Industrial Electronics
+	</li>
+	<li> International Journal of Sustainable Transportation
+	</li>
+	<li> IEEE Intelligent Transportation Systems Magazine
+	</li>
+	<li> Swarm and  Evolutionary Computation
+	</li>
+	<li> IEEE Wireless Communications Magazine
+	</li>
+	<li> IEEE Access
+	</li>
+	<li> Sensors
+	</li>
+	<li> IEEE Transactions on Human-Machine Systems
+	</li>
+	<li> IEEE Transactions on Engineering Management
+	</li>
+	<li> International Journal of Machine Learning and Cybernetics
 	</li>
 	</ul>
 </li>
