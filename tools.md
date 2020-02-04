@@ -63,5 +63,16 @@ comments: false
 	</ul>
 </li>
 
+<li>	    
+<b>Teaching</b>:
+	<ul>
+	<li> AI Summer School: Reinforcement Learning and Its Applications, NUS, Jul, 2019.
+	</li>
+	<li> Lab: Object-Oriented Design & Programming (CE2002/CZ2002), NTU, Aug-Dec, 2015.
+	</li>
+	<li> Lab: Software Engineering (CE2006/CZ2006), NTU, Jan-May, 2015.
+	</li>
+	</ul>
+</li>
 </ul>
 
