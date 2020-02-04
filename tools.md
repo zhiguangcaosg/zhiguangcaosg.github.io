@@ -54,6 +54,8 @@ comments: false
 	</li>
 	<li> IEEE Transactions on Human-Machine Systems
 	</li>
+	<li> Neurocomputing
+	</li>
 	<li> IEEE Transactions on Engineering Management
 	</li>
 	<li> International Journal of Machine Learning and Cybernetics
