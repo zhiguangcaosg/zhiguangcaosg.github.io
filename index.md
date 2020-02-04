@@ -4,7 +4,7 @@ description: "Zhiguang Cao's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image: banner1.png
 ---
-<h4 style="margin-bottom:0px;padding-top:20px;">Published/Accepted Papers</h4>
+<h3 style="margin-bottom:0px;padding-top:20px;">Published/Accepted Papers</h3>
 
 * **19-10-2019 One paper is accepted to TPAMI** <br>
 "Learning to Localize Sound Source in Visual Scenes: Analysis and Applications" is accepted to the Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
