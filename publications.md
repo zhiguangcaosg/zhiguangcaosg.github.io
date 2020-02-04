@@ -1,7 +1,7 @@
 ---
 layout: publications
 permalink: /publications/
-title: My Publications
+title: My Publications (Google Scholar Profile)
 tags: [publications]
 modified: 8-7-2014
 comments: false
