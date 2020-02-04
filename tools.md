@@ -28,13 +28,11 @@ comments: false
 </li>
 
 <li>	    
-<p>
 <b>Journal Reviewer</b>:
 	<li> IEEE Transactions on Intelligent Transportation Systems
 	<\li>
 	<li> IEEE Transactions on Intelligent Transportation Systems
-	<\li>
-</p>	    
+	<\li>	    
 </li>
 
 </ul>
