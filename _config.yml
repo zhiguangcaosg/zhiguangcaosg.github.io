@@ -36,8 +36,8 @@ links:
     url: /publications/
   - title: Projects
     url: /tools/
-  - title: Contact
-    url: /blog/
+ #  - title: Contact
+ #   url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #timezone:    Europe/Zurich
