@@ -21,7 +21,7 @@ Artificial Intelligence:  Reinforcement Learning, Deep Learning, Multi-agent Sys
 </li>
 
 <li>	    
-Applications:  Transportation, Robotics, Mobility, Computer Vision
+Applications:  Transportation, Robotics, Mobility
 </li>
 
 <br>
