@@ -13,15 +13,15 @@ image: banner1.png
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Research Interests</h3> <br>
 <li>	    
-Operations Research: Routing, Scheduling, Packing
+Operations Research:  Routing, Scheduling, Packing
 </li>
 
 <li>	    
-Artificial Intelligence: Reinforcement Learning, Deep Learning, Multi-agent Systems
+Artificial Intelligence:  Reinforcement Learning, Deep Learning, Multi-agent Systems
 </li>
 
 <li>	    
-Applications: Transportation, Robotics, Mobility, Computer Vision
+Applications:  Transportation, Robotics, Mobility, Computer Vision
 </li>
 
 <br>
