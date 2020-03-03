@@ -61,6 +61,8 @@ comments: false
 	</li>
 	<li> International Journal of Machine Learning and Cybernetics
 	</li>
+	<li> IET Biometrics
+	</li>
 	</ul>
 </li>
 <br>
