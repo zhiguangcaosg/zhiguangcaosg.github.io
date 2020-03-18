@@ -63,6 +63,8 @@ comments: false
 	</li>
 	<li> IET Biometrics
 	</li>
+	<li> IEEE Network
+	</li>
 	</ul>
 </li>
 <br>
