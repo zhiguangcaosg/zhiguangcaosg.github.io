@@ -41,6 +41,8 @@ comments: false
 	</li>
 	<li> IEEE Transactions on Industrial Electronics
 	</li>
+	<li> IEEE Transactions on Industrial Informatics
+	</li>
 	<li> International Journal of Sustainable Transportation
 	</li>
 	<li> IEEE Intelligent Transportation Systems Magazine
