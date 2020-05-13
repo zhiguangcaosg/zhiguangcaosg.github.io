@@ -18,14 +18,14 @@ comments: false
 
 <li>	    
 <p>
-<b>Guest Editor</b>: <i>Journal of Advanced Transportation</i> - Special Issue on Computer Vision Techniques in Intelligent Transportation Systems.
+<b>Guest Editor</b>: <i>Journal of Advanced Transportation</i> - Special Issue on Computer Vision Techniques in Intelligent Transportation Systems, 2020.
 </p>	    
 </li>
 
 	    
 <li>	    
 <p>
-<b>Conference PC Member</b>, <a href="https://ijcai19.org/" target="_blank"> IJCAI2019</a>, <a href="https://ijcai20.org/" target="_blank"> IJCAI2020</a>.
+<b>Conference PC Member</b>, <a href="https://ijcai19.org/" target="_blank"> IJCAI2019</a>, <a href="https://ijcai20.org/" target="_blank"> IJCAI2020</a>, <a href="http://mobimedia.org/" target="_blank"> EAI MOBIMEDIA 2020</a>.
 </p>	    
 </li>
 
