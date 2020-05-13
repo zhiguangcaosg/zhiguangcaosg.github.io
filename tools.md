@@ -18,7 +18,7 @@ comments: false
 
 <li>	    
 <p>
-<b>Guest Editor</b>: <b>Journal of Advanced Transportation</b> - Special Issue on Computer Vision Techniques in Intelligent Transportation Systems.
+<b>Guest Editor</b>: <i>Journal of Advanced Transportation</i> - Special Issue on Computer Vision Techniques in Intelligent Transportation Systems.
 </p>	    
 </li>
 
