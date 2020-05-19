@@ -18,7 +18,7 @@ comments: false
 
 <li>	    
 <p>
-<b>Guest Editor</b>: <i><a href="https://www.hindawi.com/journals/jat/" target="_blank">Journal of Advanced Transportation</a></i> - Special Issue on Computer Vision Techniques in Intelligent Transportation Systems, 2020.
+<b>Guest Editor</b>: <i><a href="https://www.hindawi.com/journals/jat/" target="_blank">Journal of Advanced Transportation</a></i> - Special Issue on <a href="https://www.hindawi.com/journals/jat/si/482196/" target="_blank"> Computer Vision Techniques in Intelligent Transportation Systems </a>, 2020.
 </p>	    
 </li>
 
