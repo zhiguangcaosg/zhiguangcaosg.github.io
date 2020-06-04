@@ -74,6 +74,8 @@ comments: false
 	</li>
 	<li> IEEE Network
 	</li>
+	<li>	IEEE Transactions on Network Science and Engineering
+	</li>
 	</ul>
 </li>
 <br>
