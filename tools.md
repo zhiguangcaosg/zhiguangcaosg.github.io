@@ -42,6 +42,9 @@ comments: false
 	</li>
 	<li> IEEE Transactions on Vehicular Technology
 	</li>
+	<li>
+	     IEEE Internet of Things Journal
+	</li>
 	<li> Transportation Research Part E: Logistics and Transportation Review
 	</li>
 	<li> IEEE Transactions on Automation Science and Engineering
