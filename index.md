@@ -6,7 +6,7 @@ image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3> <br>
 
-<p align="justify">I am currently a Research Assistant Professor with the Department of Industrial Systems Engineering and Management (ISEM), National University of Singapore (NUS).  I got the PhD from the Interdisciplinary Graduate School and School of Computer Science and Engineering,  and M.Sc from the School of EEE, Nanyang Technological University (NTU), Singapore. I got the B.Eng in Automation, Guangdong University of Technology (GDUT), China. I was a Research Fellow and Program Leader with the BMW@NTU Future Mobility Lab after PhD graduation.</p>
+<p align="justify">I am currently a Senior Research Fellow with the Department of Industrial Systems Engineering and Management (ISEM), National University of Singapore (NUS). Before that, I was a Research Assistant Professor with the same department. I got the PhD from Interdisciplinary Graduate School & School of Computer Science and Engineering,  and the M.Sc from School of EEE, Nanyang Technological University (NTU), Singapore. I got the B.Eng in Automation from Guangdong University of Technology (GDUT), China. I was a Research Fellow and Program Leader with the BMW@NTU Future Mobility Lab after PhD graduation.</p>
 <!-- and I also hold an Associate Professor position with GDUT for a short period-->
 <br />
 
