@@ -18,7 +18,7 @@ image: banner1.png
 Artificial Intelligence:  Deep Reinforcement Learning, Deep Learning
 </li>
 <li>	    
-Operations Research:  Routing, Scheduling, Packing; Combinatorial Optimization
+Combinatorial Optimization:  Routing, Scheduling, Packing; (Mixed) Integer Linear Programming Problem
 </li>
 <li>	    
 Applications:  Transportation, Robotics
