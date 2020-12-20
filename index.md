@@ -13,13 +13,13 @@ image: banner1.png
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Research Interests</h3> <br>
 <li>	    
-Artificial Intelligence:  Reinforcement Learning, Deep Learning, Multi-agent Systems
+Artificial Intelligence:  Deep Reinforcement Learning, Deep Learning
 </li>
 <li>	    
-Operations Research:  Routing, Scheduling, Packing
+Operations Research:  Routing, Scheduling, Packing; Combinatorial Optimization
 </li>
 <li>	    
-Applications:  Transportation, Robotics, Mobility
+Applications:  Transportation, Robotics
 </li>
 
 <br>
