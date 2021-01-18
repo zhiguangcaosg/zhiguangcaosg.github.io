@@ -6,22 +6,22 @@ image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3> <br>
 
-<p align="justify">I am currently a Research Assistant Professor with the Department of Industrial Systems Engineering and Management (ISEM), National University of Singapore (NUS). I got the PhD from Interdisciplinary Graduate School & School of Computer Science and Engineering,  and the M.Sc from School of EEE, Nanyang Technological University (NTU), Singapore. I got the B.Eng in Automation from Guangdong University of Technology (GDUT), China. I was a Research Fellow and Program Leader with the BMW@NTU Future Mobility Lab after PhD graduation.</p>
+<p align="justify">I am currently a Research Assistant Professor with the Department of Industrial Systems Engineering and Management (ISEM), National University of Singapore (NUS). I got the PhD from Interdisciplinary Graduate School & School of Computer Science and Engineering,  and the M.Sc from School of EEE, Nanyang Technological University (NTU), Singapore. I got the B.Eng in Automation from Guangdong University of Technology (GDUT), China. I hold a position of Research Fellow and Program Leader with the BMW@NTU Future Mobility Lab after PhD graduation.</p>
 <!-- and I also hold an Associate Professor position with GDUT for a short period-->
 <br />
 
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Research Interests</h3> <br>
-<p align="justify">Recently, I focus on exploiting Deep (Reinforcement) Learning to solve Combinatorial Opitimization Problems, such as Vehicel Routing Problem, Job Shop Scheduling Problem, Bin Packing Problem, and (Mixed) Integer Linear Programming Problem.
+<p align="justify">Recently, I focus on exploiting Deep (Reinforcement) Learning to solve Combinatorial Opitimization Problems, such as Vehicel Routing Problem, Job Shop Scheduling Problem, Bin Packing Problem, and (Mixed) Integer Programming Problem.
 </p>
 <li>	    
-Artificial Intelligence:  Deep Reinforcement Learning, Deep Learning
+<b>Artificial Intelligence</b>:  Deep Reinforcement Learning, Deep Learning
 </li>
 <li>	    
-Combinatorial Optimization:  Routing, Scheduling, Packing; (Mixed) Integer Linear Programming Problem
+<b>Combinatorial Optimization</b>:  Routing, Scheduling, Packing; (Mixed) Integer Programming Problem
 </li>
 <li>	    
-Applications:  Transportation, Robotics
+<b>Applications</b>:  Transportation, Robotics
 </li>
 
 <br>
