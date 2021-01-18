@@ -12,7 +12,7 @@ image: banner1.png
 
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Research Interests</h3> <br>
-<p align="justify">Recently, I focus on exploiting Deep (Reinforcement) Learning to solve Combinatorial Opitimization Problems, such as Vehicel Routing Problem, Job Shop Scheduling Problem, Bin Packing Problem, and (Mixed) Integer Programming Problem.
+<p align="justify">Recently, I focus on exploiting Deep (Reinforcement) Learning to solve Combinatorial Opitimization Problems, such as Vehicel Routing Problem, Job Shop Scheduling Problem, Bin Packing Problem, and (Mixed) Integer Programming Problem. This topic is interesting yet challenging, discussions or collaborations are welcome~
 </p>
 <li>	    
 <b>Artificial Intelligence</b>:  Deep Reinforcement Learning, Deep Learning
