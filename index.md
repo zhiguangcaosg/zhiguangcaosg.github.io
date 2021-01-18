@@ -18,7 +18,7 @@ image: banner1.png
 <b>Artificial Intelligence</b>:  Deep Reinforcement Learning, Deep Learning
 </li>
 <li>	    
-<b>Combinatorial Optimization</b>:  Routing, Scheduling, Packing; (Mixed) Integer Programming Problem
+<b>Combinatorial Optimization</b>:  Routing, Scheduling, Packing; (Mixed) Integer Programming
 </li>
 <li>	    
 <b>Applications</b>:  Transportation, Robotics
