@@ -12,7 +12,7 @@ image: banner1.png
 
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Research Interests</h3> <br>
-<p align="justify">Recently, I focus on exploiting Deep (Reinforcement) Learning to solve Combinatorial Opitimization Problems (<font color="#0000E3"><b>DRL4COP</b></font>), such as Vehicel Routing Problem, Job Shop Scheduling Problem, Bin Packing Problem, and (Mixed) Integer Programming Problem. This topic is quite interesting yet challenging, welcome for discussion.
+<p align="justify">Recently, I focus on exploiting Deep (Reinforcement) Learning to solve Combinatorial Opitimization Problems (<font color="#0000E3"><b>DRL4COP</b></font>), such as Vehicel Routing Problem, Job Shop Scheduling Problem, Bin Packing Problem, and (Mixed) Integer Programming Problem. This topic is quite interesting yet challenging, and welcome to use our <a href="https://zhiguangcaosg.github.io/publications/"  target="_blank"> <font color="#FF0000"><b>CODE</b> </font></a>.
 </p>
 <li>	    
 <b>Artificial Intelligence</b>:  Deep Reinforcement Learning, Deep Learning
