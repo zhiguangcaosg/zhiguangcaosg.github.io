@@ -15,7 +15,12 @@ comments: false
 </p>	    
 </li>  
 -->
-
+<li>	    
+<p>
+<b>Co-PI</b>: <i> The Air Cargo Load Planning and Break-down Problem</i> - ST Engineering & Nanyang Technological University, 2018-2020.
+</p>	    
+</li>
+	
 <li>	    
 <p>
 <b>Guest Editor</b>: <i><a href="https://www.hindawi.com/journals/jat/" target="_blank">Journal of Advanced Transportation</a></i> - Special Issue on <a href="https://www.hindawi.com/journals/jat/si/482196/" target="_blank"> Computer Vision Techniques in Intelligent Transportation Systems </a>, 2020.
