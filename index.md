@@ -12,7 +12,7 @@ image: banner1.png
 
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">Research Interests</h3> <br>
-<p align="justify">Recently, my interests focus on <font color="#0000E3"><b>Neural Combinatorial Optimization (NCO)</b></font>, where we exploit Deep (Reinforcement) Learning to solve the classic Combinatorial Optimization Problems, such as Vehicle Routing Problem, Job Shop Scheduling Problem, Bin Packing Problem, Constraint Satisfaction Problem, and (Mixed) Integer Programming Problem. It is a hot topic for both AI and Operations Research, quite interesting yet challenging. Welcome to use our <a href="https://zhiguangcaosg.github.io/publications/"  target="_blank"> <font color="#FF0000"><b>CODE</b> </font></a> and reach out for collaboration.
+<p align="justify">Recently, my interests focus on <font color="#0000E3"><b>Learning for Optimization (L4Opt)</b></font>, where we exploit Deep (Reinforcement) Learning to solve the classic Combinatorial Optimization Problems (such as Vehicle Routing Problem, Job Shop Scheduling Problem and Bin Packing Problem), Constraint Satisfaction Problem, and Integer Programming Problem. It is a hot topic for both AI and Operations Research, quite interesting yet challenging. Welcome to use our <a href="https://zhiguangcaosg.github.io/publications/"  target="_blank"> <font color="#FF0000"><b>CODE</b> </font></a> and reach out for collaboration.
 </p>
 <li>	    
 <b>Artificial Intelligence</b>:  Deep Reinforcement Learning, Deep Learning
