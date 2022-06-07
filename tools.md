@@ -48,54 +48,7 @@ comments: false
 </li>
 -->
 
-	<!-----
-<li>	    
-<b>Journal Reviewer</b>:
-	<ul>
-	<li> IEEE Transactions on Intelligent Transportation Systems
-	</li>
-	<li> IEEE Transactions on Vehicular Technology
-	</li>
-	<li>
-	     IEEE Internet of Things Journal
-	</li>
-	<li> Transportation Research Part E: Logistics and Transportation Review
-	</li>
-	<li> IEEE Transactions on Automation Science and Engineering
-	</li>
-	<li> IEEE Transactions on Industrial Electronics
-	</li>
-	<li> IEEE Transactions on Industrial Informatics
-	</li>
-	<li> International Journal of Sustainable Transportation
-	</li>
-	<li> IEEE Intelligent Transportation Systems Magazine
-	</li>
-	<li> Swarm and  Evolutionary Computation
-	</li>
-	<li> IEEE Wireless Communications Magazine
-	</li>
-	<li> IEEE Access
-	</li>
-	<li> Sensors
-	</li>
-	<li> IEEE Transactions on Human-Machine Systems
-	</li>
-	<li> Neurocomputing
-	</li>
-	<li> IEEE Transactions on Engineering Management
-	</li>
-	<li> International Journal of Machine Learning and Cybernetics
-	</li>
-	<li> IET Biometrics
-	</li>
-	<li> IEEE Network
-	</li>
-	<li>	IEEE Transactions on Network Science and Engineering
-	</li>
-	</ul>
-</li>
--->
+
 <br>
 
 <li>	    
