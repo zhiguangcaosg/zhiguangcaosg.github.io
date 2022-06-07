@@ -20,6 +20,12 @@ comments: false
 <b>Co-PI</b>: <i> The Air Cargo Load Planning and Break-down Problem</i> - ST Engineering & Nanyang Technological University, 2018-2020.
 </p>	    
 </li>
+
+<li>	    
+<p>
+<b>Associate Editor</b>, <a href="https://digital-library.theiet.org/content/journals/iet-cim" target="_blank"> IET Collaborative Intelligent Manufacturing</a>, 2022 - present.
+</p>	    
+</li> 
 	
 <li>	    
 <p>
@@ -40,6 +46,7 @@ comments: false
 </p>	    
 </li>
 
+	<!-----
 <li>	    
 <b>Journal Reviewer</b>:
 	<ul>
@@ -86,6 +93,7 @@ comments: false
 	</li>
 	</ul>
 </li>
+-->
 <br>
 
 <li>	    
