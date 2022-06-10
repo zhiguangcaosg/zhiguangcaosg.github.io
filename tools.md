@@ -15,11 +15,7 @@ comments: false
 </p>	    
 </li>  
 -->
-<li>	    
-<p>
-<b>Co-PI</b>: <i> The Air Cargo Load Planning and Break-down Problem</i> - ST Engineering & Nanyang Technological University, 2018-2020.
-</p>	    
-</li>
+
 
 <li>	    
 <p>
@@ -48,6 +44,11 @@ comments: false
 </li>
 -->
 
+<li>	    
+<p>
+<b>Co-PI</b>: <i> The Air Cargo Load Planning and Break-down Problem</i> - ST Engineering & Nanyang Technological University, 2018-2020.
+</p>	    
+</li>
 
 <br>
 
