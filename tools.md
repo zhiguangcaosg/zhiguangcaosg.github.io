@@ -38,7 +38,7 @@ comments: false
 
 <li>	    
 <p>
-<b>Member</b>, <a href="[https://aaai.org/Conferences/AAAI-21/aaai21call/](https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/)" target="_blank"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a> with IEEE Computational Intelligence Society, 2022 - Present.
+<b>Member</b>, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/" target="_blank"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a> with IEEE Computational Intelligence Society, 2022 - Present.
 </p>	    
 </li>
 	
