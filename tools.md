@@ -35,6 +35,12 @@ comments: false
 <b>Conference PC Member</b>, <a href="https://aaai.org/Conferences/AAAI-21/aaai21call/" target="_blank"> AAAI2021</a>, <a href="https://ijcai20.org/" target="_blank"> IJCAI2020</a>, <a href="https://ijcai19.org/" target="_blank"> IJCAI2019</a>,  <a href="http://mobimedia.org/" target="_blank"> EAI MOBIMEDIA 2020</a>.
 </p>	    
 </li>
+
+<li>	    
+<p>
+<b>Member</b>, <a href="[https://aaai.org/Conferences/AAAI-21/aaai21call/](https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/)" target="_blank"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a> with IEEE Computational Intelligence Society, 2022 - Present.
+</p>	    
+</li>
 	
 <!--
 <li>	    
