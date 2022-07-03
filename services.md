@@ -1,6 +1,6 @@
 ---
 layout: home2
-permalink: /tools/
+permalink: /services/
 title: Services
 tags: [services]
 modified: 6-3-2018
