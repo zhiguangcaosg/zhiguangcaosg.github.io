@@ -1,8 +1,8 @@
 ---
 layout: home2
 permalink: /tools/
-title: Professional Services
-tags: [tools]
+title: Services
+tags: [services]
 modified: 6-3-2018
 comments: false
 ---
