@@ -1,7 +1,7 @@
 ---
 layout: home2
 permalink: /others/
-title: Others
+title: Miscellaneous
 tags: [others]
 modified: 6-3-2018
 comments: false
