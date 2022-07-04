@@ -1,8 +1,8 @@
 ---
 layout: home2
-permalink: /services/
-title: Services
-tags: [services]
+permalink: /activities/
+title: Activities
+tags: [activities]
 modified: 6-3-2018
 comments: false
 ---
@@ -17,6 +17,18 @@ comments: false
 -->
 
 
+<li>	    
+<b>Teaching</b>:
+	<ul>
+	<li> AI Summer School: Reinforcement Learning and Its Applications, NUS, Jul, 2019.
+	</li>
+	<li> Lab: Object-Oriented Design & Programming (CE2002/CZ2002), NTU, Aug-Dec, 2015.
+	</li>
+	<li> Lab: Software Engineering (CE2006/CZ2006), NTU, Jan-May, 2015.
+	</li>
+	</ul>
+</li>
+	
 <li>	    
 <p>
 <b>Associate Editor</b>, <a href="https://digital-library.theiet.org/content/journals/iet-cim" target="_blank"> IET Collaborative Intelligent Manufacturing</a>, 2022 - present.
