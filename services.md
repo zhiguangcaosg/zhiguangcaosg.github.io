@@ -1,8 +1,8 @@
 ---
 layout: home2
-permalink: /activities/
-title: Activities
-tags: [activities]
+permalink: /others/
+title: Others
+tags: [others]
 modified: 6-3-2018
 comments: false
 ---
@@ -19,11 +19,11 @@ comments: false
 <li>	    
 <b>Invited Talks</b>:
 	<ul>
-	<li> <i>Learning to Solve Vehicle Routing Problems.</i> Department of Electronic Engineering, <b>Tsinghua University</b>, 07.2022.
+	<li> <i>Learning to Solve Vehicle Routing Problems.</i> Department of Electronic Engineering, <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, 07.2022.
 	</li>
 	</ul>
 </li>
-	
+<br>	
 
 <li>	    
 <b>Editorship</b>:
@@ -34,32 +34,30 @@ comments: false
 	</li>
 	</ul>
 </li>
-
+<br>
 	
 <li>	    
-<p>
-<b>Associate Editor</b>, <a href="https://digital-library.theiet.org/content/journals/iet-cim" target="_blank"> IET Collaborative Intelligent Manufacturing</a>, 2022 - present.
-</p>	    
-</li> 
-	
-<li>	    
-<p>
-<b>Guest Editor</b>: <i><a href="https://www.hindawi.com/journals/jat/" target="_blank">Journal of Advanced Transportation</a></i> - Special Issue on <a href="https://www.hindawi.com/journals/jat/si/482196/" target="_blank"> Computer Vision Techniques in Intelligent Transportation Systems </a>, 2020.
-</p>	    
+<b>Conference TPC Member</b>:
+	<ul>
+	<li> AAAI2021.
+	</li>
+	<li> IJCAI2020.
+	</li>
+	<li> IJCAI2019.
+	</li>
+	</ul>
 </li>
-
-	    
-<li>	    
-<p>
-<b>Conference PC Member</b>, <a href="https://aaai.org/Conferences/AAAI-21/aaai21call/" target="_blank"> AAAI2021</a>, <a href="https://ijcai20.org/" target="_blank"> IJCAI2020</a>, <a href="https://ijcai19.org/" target="_blank"> IJCAI2019</a>,  <a href="http://mobimedia.org/" target="_blank"> EAI MOBIMEDIA 2020</a>.
-</p>	    
-</li>
+<br>	
 
 <li>	    
-<p>
-<b>Member</b>, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/" target="_blank"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a> with IEEE Computational Intelligence Society, 2022 - Present.
-</p>	    
+<b>IEEE Society Member</b>:
+	<ul>
+	<li> <b>Member</b>, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/" target="_blank"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a> with IEEE Computational Intelligence Society, 2022 - Present.
+	</li>
+	</ul>
 </li>
+<br>	
+
 	
 <!--
 <li>	    
@@ -70,11 +68,12 @@ comments: false
 -->
 
 <li>	    
-<p>
-<b>Co-PI</b>: <i> The Air Cargo Load Planning and Break-down Problem</i> - ST Engineering & Nanyang Technological University, 2018-2020.
-</p>	    
+<b>Projects</b>:
+	<ul>
+	<li> <b>Co-PI</b>: <i> The Air Cargo Load Planning and Break-down Problem</i> - ST Engineering & Nanyang Technological University, 2018-2020.
+	</li>
+	</ul>
 </li>
-
 <br>
 
 <li>	    
