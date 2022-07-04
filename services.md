@@ -16,6 +16,14 @@ comments: false
 </li>  
 -->
 
+<li>	    
+<b>Invited Talks</b>:
+	<ul>
+	<li> <i>Learning to Solve Vehicle Routing Problems.</i> Department of Electronic Engineering, <b>Tsinghua University</b>, 07.2022.
+	</li>
+	</ul>
+</li>
+	
 
 <li>	    
 <b>Editorship</b>:
@@ -26,8 +34,7 @@ comments: false
 	</li>
 	</ul>
 </li>
-	
-<br>
+
 	
 <li>	    
 <p>
