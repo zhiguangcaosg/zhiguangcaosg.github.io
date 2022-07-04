@@ -18,16 +18,16 @@ comments: false
 
 
 <li>	    
-<b>Teaching</b>:
+<b>Editorship</b>:
 	<ul>
-	<li> AI Summer School: Reinforcement Learning and Its Applications, NUS, Jul, 2019.
+	<li> <b>Associate Editor</b>, <a href="https://digital-library.theiet.org/content/journals/iet-cim" target="_blank"> IET Collaborative Intelligent Manufacturing</a>, 2022 - present.
 	</li>
-	<li> Lab: Object-Oriented Design & Programming (CE2002/CZ2002), NTU, Aug-Dec, 2015.
-	</li>
-	<li> Lab: Software Engineering (CE2006/CZ2006), NTU, Jan-May, 2015.
+	<li> <b>Guest Editor</b>: <i><a href="https://www.hindawi.com/journals/jat/" target="_blank">Journal of Advanced Transportation</a></i> - Special Issue on <a href="https://www.hindawi.com/journals/jat/si/482196/" target="_blank"> Computer Vision Techniques in Intelligent Transportation Systems </a>, 2020.
 	</li>
 	</ul>
 </li>
+	
+<br>
 	
 <li>	    
 <p>
