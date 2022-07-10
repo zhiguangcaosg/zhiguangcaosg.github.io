@@ -21,7 +21,7 @@ comments: false
 	<ul>
 	<li> <i>Learning to Solve Vehicle Routing Problems.</i> Department of Electronic Engineering, <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, 07.2022.
 	</li>
-	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="https://www.ee.tsinghua.edu.cn/en/](http://www.cota-home.org/cictp/cictp2022.html" target="_blank">The 22nd COTA International Conference of Transportation Professionals</a>, 07.2022.
+	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="http://www.cota-home.org/cictp/cictp2022.html" target="_blank">The 22nd COTA International Conference of Transportation Professionals</a>, 07.2022.
 	</li>
 	</ul>
 </li>
