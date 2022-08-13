@@ -32,7 +32,7 @@ comments: false
 	<ul>
 	<li> <b>Associate Editor</b>, <a href="https://digital-library.theiet.org/content/journals/iet-cim" target="_blank"> IET Collaborative Intelligent Manufacturing</a>, 2022 - present.
 	</li>
-	<li> <b>Guest Editor</b>: <i><a href="https://www.hindawi.com/journals/jat/" target="_blank">Journal of Advanced Transportation</a></i> - Special Issue on <a href="https://www.hindawi.com/journals/jat/si/482196/" target="_blank"> Computer Vision Techniques in Intelligent Transportation Systems </a>, 2020.
+	<li> <b>Guest Editor</b>, <i><a href="https://www.hindawi.com/journals/jat/" target="_blank">Journal of Advanced Transportation</a></i> - Special Issue on <a href="https://www.hindawi.com/journals/jat/si/482196/" target="_blank"> Computer Vision Techniques in Intelligent Transportation Systems </a>, 2020.
 	</li>
 	</ul>
 </li>
