@@ -37,6 +37,18 @@ comments: false
 	</ul>
 </li>
 <br>
+
+<li>	    
+<b>Projects</b>:
+	<ul>
+	<li> <b>PI</b>: <i> Towards Generalizable Deep Models for Solving Vehicle Routing Problems in Logistics</i> - A*STAR Career Development Fund, 2022-2024.
+	</li>
+	<li> <b>Co-PI</b>: <i> The Air Cargo Load Planning and Break-down Problem</i> - ST Engineering & Nanyang Technological University, 2018-2020.
+	</li>
+	</ul>
+	
+</li>
+<br>
 	
 <li>	    
 <b>Conference TPC Member</b>:
@@ -69,20 +81,7 @@ comments: false
 </li>
 -->
 
-<li>	    
-<b>Projects</b>:
-	<ul>
-	<li> <b>PI</b>: <i> Towards Generalizable Deep Models for Solving Vehicle Routing Problems in Logistics</i> - A*STAR Career Development Fund, 2022-2024.
-	</li>
-	<li> <b>Co-PI</b>: <i> The Air Cargo Load Planning and Break-down Problem</i> - ST Engineering & Nanyang Technological University, 2018-2020.
-	</li>
-	</ul>
-	
 
-	
-	
-</li>
-<br>
 
 <li>	    
 <b>Teaching</b>:
