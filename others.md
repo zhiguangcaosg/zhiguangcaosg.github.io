@@ -19,6 +19,8 @@ comments: false
 <li>	    
 <b>Invited Talks</b>:
 	<ul>
+	<li> <i>Learning to Solve Vehicle Routing Problems.</i> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/" target="_blank">Victoria University of Wellington</a>, 11.2022.
+	</li>
 	<li> <i>Learning to Solve Vehicle Routing Problems.</i> Department of Electronic Engineering, <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, 07.2022.
 	</li>
 	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="http://www.cota-home.org/cictp/cictp2022.html" target="_blank">The 22nd COTA International Conference of Transportation Professionals</a>, 07.2022.
