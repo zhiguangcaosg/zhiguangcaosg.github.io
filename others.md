@@ -19,6 +19,8 @@ comments: false
 <li>	    
 <b>Invited Talks</b>:
 	<ul>
+	<li> <i>Learning to Optimize.</i> <a href="https://cse.sysu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>, Sun Yat-sen University, 12.2022.
+	</li>
 	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/" target="_blank">IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Victoria University of Wellington, 11.2022.
 	</li>
 	<li> <i>Learning to Solve Vehicle Routing Problems.</i> Department of Electronic Engineering, <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, 07.2022.
