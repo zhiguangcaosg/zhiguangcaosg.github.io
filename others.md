@@ -53,6 +53,20 @@ comments: false
 	
 </li>
 <br>
+
+<li>	    
+<b>Awards</b>:
+	<ul>
+	<li> <b>Nobert Wiener Review Award</b>: <i> A Review on Swarm Intelligence and Evolutionary Algorithms for Solving Flexible Job Shop Scheduling Problems</i>, 2022.
+	</li>
+	<li> <b>Excellent Research Work</b>: <i> BMW Summer School on Autonomous Driving in the Internet of Things</i> - Germany, 2014.
+	</li>
+	<li> <b>Second Prize</b>: <i> Tennis Game for Men’s Single</i> - IEEE Singapore Chapter, 2012.
+	</li>
+	</ul>
+	
+</li>
+<br>
 	
 <li>	    
 <b>Conference TPC Member</b>:
