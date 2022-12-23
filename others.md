@@ -69,13 +69,11 @@ comments: false
 <br>
 	
 <li>	    
-<b>Conference TPC Member</b>:
+<b>Conference SPC/PC Member</b>:
 	<ul>
-	<li> AAAI2021.
+	<li> <b>SPC</b>: IJCAI2023.
 	</li>
-	<li> IJCAI2020.
-	</li>
-	<li> IJCAI2019.
+	<li> <b>PC</b>: AAAI2023, AAAI2022, AAAI2021, IJCAI2020.
 	</li>
 	</ul>
 </li>
