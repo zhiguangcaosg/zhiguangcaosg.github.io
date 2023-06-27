@@ -11,8 +11,8 @@ url:              //zhiguangcaosg.github.io
 owner:
   name:           Zhiguang Cao
   avatar:         zhiguangcao.jpg
-  bio:            Assistant Professor, \n
-                  School of Computing and Information Systems (SCIS), /n
+  bio:            Assistant Professor, "\n"
+                  School of Computing and Information Systems (SCIS), "/n"
                   Singapore Management University (SMU).
   location:       Singapore
   email:          zhiguangcao@outlook.com
