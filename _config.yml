@@ -1,5 +1,5 @@
 #title: Personal Web Page
-title: Zhiguang Cao | I2R
+title: Zhiguang Cao | SMU
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //zhiguangcaosg.github.io
@@ -11,7 +11,7 @@ url:              //zhiguangcaosg.github.io
 owner:
   name:           Zhiguang Cao
   avatar:         zhiguangcao.jpg
-  bio:            Scientist, Institute for Infocomm Research (I2R), Agency for Science Technology and Research (A*STAR).
+  bio:            Assistant Professor, School of Computing and Information Systems (SCIS), Singapore Management University (SMU).
   location:       Singapore
   email:          zhiguangcao@outlook.com
 
