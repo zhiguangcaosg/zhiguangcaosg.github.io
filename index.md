@@ -15,8 +15,16 @@ image: banner1.png
 
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3> <br>
 
-<p align="justify">I am currently a Scientist with the Agency for Science Technology and Research (A*STAR), Singapore. Previously, I was a Research Assistant Professor with the Department of Industrial Systems Engineering and Management, National University of Singapore (NUS), and a Research Fellow with the BMW@NTU Future Mobility Lab, Nanyang Technological University (NTU). I received the PhD from Interdisciplinary Graduate School & School of Computer Science and Engineering, and the M.Sc from School of Electrical and Electronic Engineering, NTU. I received the B.Eng in Automation from Guangdong University of Technology (GDUT), China. </p>
-<!-- and I also hold an Associate Professor position with GDUT for a short period-->
+<p align="justify">I am currently a Scientist with the Agency for Science Technology and Research (A*STAR), Singapore. Previously, I was a Research Assistant Professor with the Department of Industrial Systems Engineering and Management, National University of Singapore (NUS), and a Research Fellow with the BMW@NTU Future Mobility Lab, Nanyang Technological University (NTU). I received the PhD from Interdisciplinary Graduate School & School of Computer Science and Engineering, and the M.Sc from School of Electrical and Electronic Engineering, NTU. I received the B.Eng in Automation from Guangdong University of Technology (GDUT), China. You may approach me at</p>
+<li>	    
+<b>Office</b>: Room 5027, 80 Stamford Road, Singapore 178902
+</li>
+<li>	    
+<b>E-mail</b>: zgcao [at] smu [dot] edu [dot] sg
+</li>
+<li>	    
+<b>Telephone</b>:  +65-6826xxxx
+</li>
 <br />
 
 
