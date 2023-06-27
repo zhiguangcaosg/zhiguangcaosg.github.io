@@ -4,6 +4,13 @@ description: "Zhiguang Cao's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image: banner1.png
 ---
+<h3 style="margin-bottom:0px;padding-top:20px;color:#0000E3">Hiring</h3> <br>
+
+<p align="justify">I am looking for self-motivated PhD/Master students to join my team at SMU to conduct research on <b>Learning to Optimize (L2Opt)</b> or <b>Neural Combinatorial Optimization (NCO)</b>, where we exploit deep learning to solve combinatorial optimization problems, especially the vehicle routing problems. Visiting students/researchers, and remote online interns are also welcome! </p>
+<!-- and I also hold an Associate Professor position with GDUT for a short period-->
+<br />
+
+
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3> <br>
 
 <p align="justify">I am currently a Scientist with the Agency for Science Technology and Research (A*STAR), Singapore. Previously, I was a Research Assistant Professor with the Department of Industrial Systems Engineering and Management, National University of Singapore (NUS), and a Research Fellow with the BMW@NTU Future Mobility Lab, Nanyang Technological University (NTU). I received the PhD from Interdisciplinary Graduate School & School of Computer Science and Engineering, and the M.Sc from School of Electrical and Electronic Engineering, NTU. I received the B.Eng in Automation from Guangdong University of Technology (GDUT), China. </p>
