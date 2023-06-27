@@ -6,9 +6,9 @@ image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;color:#FF0000">Hiring!!!</h3> <br>
 
-<p align="justify">I am looking for self-motivated PhD/Master students to join my team at SMU to conduct research on <b>Learning to Optimize (L2Opt)</b> or <b>Neural Combinatorial Optimization (NCO)</b>, where deep learning is exploited to solve combinatorial optimization problems, especially the vehicle routing problems. Visiting CSC students/researchers, and remote online interns are also welcome! </p>
+<p align="justify">I am looking for self-motivated PhD/Master students to join my team at SMU to conduct research on <b>Learning to Optimize (L2Opt)</b> or <b>Neural Combinatorial Optimization (NCO)</b>, where deep learning is exploited to solve combinatorial optimization problems, especially the vehicle routing problems. The requirement for SMU PhD admission can be found <a href="https://scis.smu.edu.sg/programmes/PhD/admission-fees-scholarships"  target="_blank"> <font color="#0000FF"><b>HERE</b> </font></a>.  </p>
 
-<p align="justify">The requirement for the PhD admission can be found <a href="[https://zhiguangcaosg.github.io/publications/](https://scis.smu.edu.sg/programmes/PhD/admission-fees-scholarships)"  target="_blank"> <font color="#0000FF"><b>HERE</b> </font></a>. </p>
+<p align="justify">Visiting CSC students/researchers, and remote online interns are also welcome! </p>
 <!-- and I also hold an Associate Professor position with GDUT for a short period-->
 <br />
 
