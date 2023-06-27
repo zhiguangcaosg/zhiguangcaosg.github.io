@@ -4,9 +4,9 @@ description: "Zhiguang Cao's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image: banner1.png
 ---
-<h3 style="margin-bottom:0px;padding-top:20px;color:#0000E3">Hiring</h3> <br>
+<h3 style="margin-bottom:0px;padding-top:20px;color:#FF0000">Hiring!!!</h3> <br>
 
-<p align="justify">I am looking for self-motivated PhD/Master students to join my team at SMU to conduct research on <b>Learning to Optimize (L2Opt)</b> or <b>Neural Combinatorial Optimization (NCO)</b>, where we exploit deep learning to solve combinatorial optimization problems, especially the vehicle routing problems. Visiting students/researchers, and remote online interns are also welcome! </p>
+<p align="justify">I am looking for self-motivated PhD/Master students to join my team at SMU to conduct research on <b>Learning to Optimize (L2Opt)</b> or <b>Neural Combinatorial Optimization (NCO)</b>, where deep learning is exploited to solve combinatorial optimization problems, especially the vehicle routing problems. Visiting students/researchers, and remote online interns are also welcome! </p>
 <!-- and I also hold an Associate Professor position with GDUT for a short period-->
 <br />
 
