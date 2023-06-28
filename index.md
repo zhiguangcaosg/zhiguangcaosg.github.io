@@ -38,7 +38,7 @@ image: banner1.png
 <b>Combinatorial Optimization</b>:  Routing, Scheduling, Packing; (Mixed) Integer Programming
 </li>
 <li>	    
-<b>Applications</b>:  Transportation, Robotics
+<b>Applications</b>: Logistics, Transportation, Robotics
 </li>
 
 <br>
