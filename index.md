@@ -23,7 +23,7 @@ image: banner1.png
 <b>E-mail</b>: zgcao [at] smu [dot] edu [dot] sg
 </li>
 <li>	    
-<b>Telephone</b>:  +65 68261341 
+<b>Telephone</b>:  +65 6826 1341 
 </li>
 <br />
 
