@@ -106,6 +106,8 @@ comments: false
 <li>	    
 <b>Teaching</b>:
 	<ul>
+	<li> Statistical Thinking of Data Science (CS105), SMU, Jan, 2024.
+	</li>
 	<li> AI Summer School: Reinforcement Learning and Its Applications, NUS, Jul, 2019.
 	</li>
 	<li> Lab: Object-Oriented Design & Programming (CE2002/CZ2002), NTU, Aug-Dec, 2015.
