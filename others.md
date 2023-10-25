@@ -19,6 +19,8 @@ comments: false
 <li>	    
 <b>Invited Talks</b>:
 	<ul>
+	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="https://ai.nju.edu.cn/main.htm" target="_blank">School of Artificial Intelligence</a>, Nanjing University, 10.2023.
+	</li>
 	<li> <i>Learning to Solve Combinatorial Optimization Problems.</i> <a href="https://www.a-star.edu.sg/imre/events/a-star-mini-symposium-on-quantum-science-and-technology" target="_blank">A*STAR Mini Symposium on Quantum Science & Technology</a>, Singapore, 03.2023.
 	</li>
 	<li> <i>Learning to Optimize.</i> <a href="https://cse.sysu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>, Sun Yat-sen University, 12.2022.
