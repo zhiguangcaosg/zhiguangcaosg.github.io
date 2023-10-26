@@ -51,7 +51,7 @@ image: banner1.png
 </li>
 
 <li>	    
-09.2023:  LIU Yunduo and LIAO Shubing joined the L2Opt group as visiting students.
+09.2023:  LIU Yunduo and LIAO Shubing joined the L2Opt Group as visiting students.
 </li>
 <li>	    
 07.2023: I joined the School of Computing and Information Systems, SMU, as an Assistant Professor.
