@@ -43,7 +43,7 @@ image: banner1.png
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 <li>	    
-10.2023:  I gave a talk on Learning to Optimize at Nanjing University (Online).
+10.2023:  I gave a talk on Learning to Solve Vehicle Routing Problems at Nanjing University (Online).
 </li>
 
 <li>	    
