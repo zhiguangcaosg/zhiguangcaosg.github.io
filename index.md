@@ -41,13 +41,13 @@ image: banner1.png
 <b>Applications</b>: Logistics, Transportation, Robotics
 </li>
 
-<h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
+<h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> 
 <li>	    
-10.2023:  I gave a talk about Learning to Optimize at Nanjing University (Online).
+10.2023:  I gave a talk on Learning to Optimize at Nanjing University (Online).
 </li>
 
 <li>	    
-09.2023:  6 papers on L2Opt are accepted by NeurIPS.
+09.2023:  Six papers on L2Opt got accepted by NeurIPS.
 </li>
 
 <li>	    
