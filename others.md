@@ -75,11 +75,11 @@ comments: false
 <br>
 	
 <li>	    
-<b>Conference SPC/PC Member</b>:
+<b>Conference SPC/PC/Reviewer</b>:
 	<ul>
 	<li> <b>SPC</b>: IJCAI2023.
 	</li>
-	<li> <b>PC</b>: AAAI2023, AAAI2022, AAAI2021, IJCAI2020.
+	<li> <b>PC/Reviewer</b>: ICLR2024, WWW2024, NeurIPS2023, AAAI2023, AAAI2022, AAAI2021, IJCAI2020.
 	</li>
 	</ul>
 </li>
