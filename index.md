@@ -28,7 +28,7 @@ image: banner1.png
 <p align="justify">Recently, my interests focus on <font color="#0000E3"><b>Learning to Optimize (L2Opt)</b></font>, also known as <font color="#47A7F7"><b>Learning for Optimization </b></font> and closely related to <font color="#47A7F7"><b>Neural Combinatorial Optimization (NCO)</b></font>, where we exploit Deep (Reinforcement) Learning (including LLM) to solve the classic Combinatorial Optimization Problems (such as Vehicle Routing Problem, Job Shop Scheduling Problem and Bin Packing Problem), Constraint Satisfaction Problem, and Integer Programming Problem. It is a hot topic for both AI and Operations Research, quite interesting yet challenging. Welcome to use our <a href="https://zhiguangcaosg.github.io/publications/"  target="_blank"> <font color="#FF0000"><b>CODE</b> </font></a> and reach out for <font color="#FF3396">collaboration</font>.
 </p>
 <li>	    
-<b>Artificial Intelligence</b>:  Deep Reinforcement Learning, Deep Learning, Large Language Model
+<b>Artificial Intelligence</b>:  Deep Reinforcement Learning, Deep Learning, Large Language Model (LLM)
 </li>
 <li>	    
 <b>Combinatorial Optimization</b>:  Routing, Scheduling, Packing; (Mixed) Integer Programming
