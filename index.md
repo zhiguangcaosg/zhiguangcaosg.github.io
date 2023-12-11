@@ -6,7 +6,7 @@ image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px;color:#FF0000">Hiring!!!</h3> <br>
 
-<p align="justify">I am looking for self-motivated PhD/Master students to join my L2Opt Group at SMU to conduct research on <b>Learning to Optimize</b>, where deep learning is exploited to solve combinatorial optimization problems, especially the vehicle routing problems. The requirement for SMU PhD admission can be found <a href="https://scis.smu.edu.sg/programmes/PhD/admission-fees-scholarships"  target="_blank"> <font color="#0000FF"><b>HERE</b> </font></a>. Visiting CSC students/researchers, and remote online interns are also welcome.  Drop me an email if you are interested! </p>
+<p align="justify">I am looking for self-motivated PhD/Master students to join my L2Opt Group at SMU to conduct research on <b>Learning to Optimize</b>, where deep learning (including LLM) is exploited to solve combinatorial optimization problems, especially the vehicle routing problems. The requirement for SMU PhD admission can be found <a href="https://scis.smu.edu.sg/programmes/PhD/admission-fees-scholarships"  target="_blank"> <font color="#0000FF"><b>HERE</b> </font></a>. Visiting CSC students/researchers, and remote online interns are also welcome.  Drop me an email if you are interested! </p>
 <br />
 
 
@@ -25,10 +25,10 @@ image: banner1.png
 <br />
 
 
-<p align="justify">Recently, my interests focus on <font color="#0000E3"><b>Learning to Optimize (L2Opt)</b></font>, also known as <font color="#47A7F7"><b>Learning for Optimization </b></font> and closely related to <font color="#47A7F7"><b>Neural Combinatorial Optimization (NCO)</b></font>, where we exploit Deep (Reinforcement) Learning to solve the classic Combinatorial Optimization Problems (such as Vehicle Routing Problem, Job Shop Scheduling Problem and Bin Packing Problem), Constraint Satisfaction Problem, and Integer Programming Problem. It is a hot topic for both AI and Operations Research, quite interesting yet challenging. Welcome to use our <a href="https://zhiguangcaosg.github.io/publications/"  target="_blank"> <font color="#FF0000"><b>CODE</b> </font></a> and reach out for <font color="#FF3396">collaboration</font>.
+<p align="justify">Recently, my interests focus on <font color="#0000E3"><b>Learning to Optimize (L2Opt)</b></font>, also known as <font color="#47A7F7"><b>Learning for Optimization </b></font> and closely related to <font color="#47A7F7"><b>Neural Combinatorial Optimization (NCO)</b></font>, where we exploit Deep (Reinforcement) Learning (including LLM) to solve the classic Combinatorial Optimization Problems (such as Vehicle Routing Problem, Job Shop Scheduling Problem and Bin Packing Problem), Constraint Satisfaction Problem, and Integer Programming Problem. It is a hot topic for both AI and Operations Research, quite interesting yet challenging. Welcome to use our <a href="https://zhiguangcaosg.github.io/publications/"  target="_blank"> <font color="#FF0000"><b>CODE</b> </font></a> and reach out for <font color="#FF3396">collaboration</font>.
 </p>
 <li>	    
-<b>Artificial Intelligence</b>:  Deep Reinforcement Learning, Deep Learning
+<b>Artificial Intelligence</b>:  Deep Reinforcement Learning, Deep Learning, Large Language Model
 </li>
 <li>	    
 <b>Combinatorial Optimization</b>:  Routing, Scheduling, Packing; (Mixed) Integer Programming
