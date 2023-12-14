@@ -40,7 +40,7 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
-12.2023:  One paper on L2Opt got accepted by AAAI, where we solved large-scale VRPs in real-time.
+12.2023:  One paper on L2Opt got accepted by AAAI, where we solved large-scale VRPs (including TSP, ATSP, CVRP, and PCTSP) in real-time.
 </li>
 
 <li>	    
