@@ -77,9 +77,11 @@ comments: false
 <li>	    
 <b>Conference SPC/PC/Reviewer</b>:
 	<ul>
-	<li> <b>SPC</b>: IJCAI2023.
+	<li> <b>Area Chair</b>: IEEE CAI'24.
 	</li>
-	<li> <b>PC/Reviewer</b>: ICLR2024, WWW2024, NeurIPS2023, AAAI2023, AAAI2022, AAAI2021, IJCAI2020.
+	<li> <b>SPC</b>: IJCAI'23.
+	</li>
+	<li> <b>PC/Reviewer</b>: ICML'24, ICLR'24, WWW'24, LION'24, NeurIPS'23, AAAI'23, AAAI'22, AAAI'21, IJCAI'20.
 	</li>
 	</ul>
 </li>
