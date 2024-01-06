@@ -40,7 +40,11 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
-12.2023:  One paper on L2Opt got accepted by AAAI, where we solved large-scale VRPs (including TSP, ATSP, CVRP, and PCTSP) in real-time.
+12.2023:  One paper on L2Opt got accepted by AAMAS'24, where we solved multi-objective VRPs, including MOTSP and MOCVRP.
+</li>
+
+<li>	    
+12.2023:  One paper on L2Opt got accepted by AAAI'24, where we solved large-scale VRPs (including TSP, ATSP, CVRP, and PCTSP) in real-time.
 </li>
 
 <li>	    
@@ -48,7 +52,7 @@ image: banner1.png
 </li>
 
 <li>	    
-09.2023:  Six papers on L2Opt got accepted by NeurIPS.
+09.2023:  Six papers on L2Opt got accepted by NeurIPS'23.
 </li>
 
 <li>	    
