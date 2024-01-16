@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+01.2024:  One paper on L2Opt got accepted by ICLR'24, where we solved JSSP using DRL based improvement heuristic.
+</li>
+
+<li>	    
 12.2023:  One paper on L2Opt got accepted by AAMAS'24, where we solved multi-objective VRPs, including MOTSP and MOCVRP.
 </li>
 
