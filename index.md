@@ -44,6 +44,10 @@ image: banner1.png
 </li>
 
 <li>	    
+01.2024:  One paper on L2Opt got accepted by T-ASE, where we solved large-scale UAV routing using DRL based divide-and-conquer.
+</li>
+
+<li>	    
 12.2023:  One paper on L2Opt got accepted by AAMAS'24, where we solved multi-objective VRPs, including MOTSP and MOCVRP.
 </li>
 
