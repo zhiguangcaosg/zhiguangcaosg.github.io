@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+01.2024:  I gave a talk on Learning to Solve Vehicle Routing Problems to HuaWei (Online).
+</li>
+
+<li>	    
 01.2024:  One paper on L2Opt got accepted by ICLR'24, where we solved JSSP using DRL based improvement heuristic.
 </li>
 
@@ -60,7 +64,7 @@ image: banner1.png
 </li>
 
 <li>	    
-10.2023:  I gave a talk on Learning to Solve Vehicle Routing Problems at Nanjing University (Online).
+10.2023:  I gave a talk on Learning to Solve Vehicle Routing Problems to Nanjing University (Online).
 </li>
 
 <li>	    
