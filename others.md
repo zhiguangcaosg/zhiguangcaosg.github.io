@@ -19,7 +19,7 @@ comments: false
 <li>	    
 <b>Invited Talks</b>:
 	<ul>
-	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="https://ai.nju.edu.cn/main.htm" target="_blank">HuaWei</a>, Shenzhen, 01.2024.
+	<li> <i>Learning to Solve Vehicle Routing Problems.</i> HuaWei, Shenzhen, 01.2024.
 	</li>
 		
 	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="https://ai.nju.edu.cn/main.htm" target="_blank">School of Artificial Intelligence</a>, Nanjing University, 10.2023.
