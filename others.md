@@ -19,6 +19,9 @@ comments: false
 <li>	    
 <b>Invited Talks</b>:
 	<ul>
+	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="https://ai.nju.edu.cn/main.htm" target="_blank">HuaWei</a>, Shenzhen, 01.2024.
+	</li>
+		
 	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="https://ai.nju.edu.cn/main.htm" target="_blank">School of Artificial Intelligence</a>, Nanjing University, 10.2023.
 	</li>
 	<li> <i>Learning to Solve Combinatorial Optimization Problems.</i> <a href="https://www.a-star.edu.sg/imre/events/a-star-mini-symposium-on-quantum-science-and-technology" target="_blank">A*STAR Mini Symposium on Quantum Science & Technology</a>, Singapore, 03.2023.
@@ -77,7 +80,7 @@ comments: false
 <li>	    
 <b>Conference AC/SPC/PC/Reviewer</b>:
 	<ul>
-	<li> <b>Area Chair</b>: IEEE CAI'24.
+	<li> <b>Area Chair</b>: ICML'24, IEEE CAI'24.
 	</li>
 	<li> <b>Senior PC</b>: IJCAI'23.
 	</li>
