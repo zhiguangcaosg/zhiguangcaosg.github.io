@@ -40,7 +40,7 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
-01.2024:  I was invited to serve as Area Chair for KDD'24.
+02.2024:  I was invited to serve as Area Chair for KDD'24.
 </li>
 
 <li>	    
