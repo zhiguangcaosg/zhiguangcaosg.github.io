@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+02.2024:  Two papers on L2Opt got accepted by TNNLS, where we solved VRPs with backhauls and multi-objective VRPs using DRL, respectively.
+</li>
+
+<li>	    
 02.2024:  I was invited to serve as Area Chair for KDD'24.
 </li>
 
