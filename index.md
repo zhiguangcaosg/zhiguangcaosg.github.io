@@ -39,12 +39,13 @@ image: banner1.png
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
+
 <li>	    
-02.2024:  Two papers on L2Opt got accepted by TNNLS, where we solved VRPs with backhauls and multi-objective VRPs using DRL, respectively.
+03.2024:  One paper on L2Opt got accepted by SMCA, where we proposed dynamic algorithm selection based on reinforcement learning.
 </li>
 
 <li>	    
-02.2024:  One paper on L2Opt got accepted by SMCA, where we proposed dynamic algorithm selection based on reinforcement learning.
+02.2024:  Two papers on L2Opt got accepted by TNNLS, where we solved VRPs with backhauls and multi-objective VRPs using DRL, respectively.
 </li>
 
 <li>	    
