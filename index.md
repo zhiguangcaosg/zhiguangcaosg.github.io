@@ -44,6 +44,10 @@ image: banner1.png
 </li>
 
 <li>	    
+02.2024:  One paper on L2Opt got accepted by SMCA, where we proposed dynamic algorithm selection based on reinforcement learning.
+</li>
+
+<li>	    
 02.2024:  I was invited to serve as Area Chair for KDD'24.
 </li>
 
