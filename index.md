@@ -39,6 +39,9 @@ image: banner1.png
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
+<li>	    
+03.2024:  Yi Hang joined the L2Opt group as a research engineer. 
+</li>
 
 <li>	    
 03.2024:  One paper on L2Opt got accepted by SMCA, where we proposed dynamic algorithm selection based on reinforcement learning.
