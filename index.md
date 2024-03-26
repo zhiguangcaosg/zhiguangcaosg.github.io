@@ -40,7 +40,7 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
-03.2024:  Yi Hang joined the L2Opt group as a research engineer. 
+03.2024:  YI Hang joined the L2Opt Group as a research engineer. 
 </li>
 
 <li>	    
