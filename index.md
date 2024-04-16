@@ -40,6 +40,14 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+04.2024:  One paper on L2Opt got accepted by IJCAI, where we proposed cross-problem learning for different VRP variants.
+</li>
+
+<li>	    
+03.2024:  Our project - Learning Assisted Human-AI Collaboration for Large-scale Practical Combinatorial Optimization, was awarded by AISG. 
+</li>
+
+<li>	    
 03.2024:  YI Hang joined the L2Opt Group as a research engineer. 
 </li>
 
