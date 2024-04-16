@@ -52,6 +52,8 @@ comments: false
 <li>	    
 <b>Projects</b>:
 	<ul>
+	<li> <b>Co-PI</b>: <i> Learning Assisted Human-AI Collaboration for Large-scale Practical Combinatorial Optimization</i> - AISG, 2024-2029. (Ongoing)
+	</li>
 	<li> <b>PI</b>: <i> Learning Robust Neural Heuristic for Solving Vehicle Routing Problems in Logistics</i> - Ministry of Education (MOE) Tier 1, 2023-2024. (Ongoing)
 	</li>
 	<li> <b>PI</b>: <i> Towards Generalizable Deep Models for Solving Vehicle Routing Problems in Logistics</i> - A*STAR Career Development Fund, 2022-2023. (Closed)
