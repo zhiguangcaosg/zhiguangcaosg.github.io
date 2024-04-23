@@ -23,11 +23,11 @@ comments: false
 	</li>
 	<li> HUANG Ziwei, <i>Intern</i> @SMU.
 	</li>
-        <li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>) <i>PhD Student</i> @SMU.
+        <li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU.
 	</li>
-        <li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>) <i>Master Student</i> @SMU.
+        <li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU.
 	</li>
-        <li> GOH Yong Liang (with <a href="https://www.comp.nus.edu.sg/~leews/" target="_blank"> Prof. LEE </a>) <i>PhD Student</i> @NUS.
+        <li> GOH Yong Liang (with <a href="https://www.comp.nus.edu.sg/~leews/" target="_blank"> Prof. LEE </a>), <i>PhD Student</i> @NUS.
 	</li>
         <li> LI Futong, <i>Master Student</i> @NUS.
 	</li>
@@ -35,7 +35,5 @@ comments: false
 	</ul>
 </li>
 <br>	
-
-
 </ul>
 
