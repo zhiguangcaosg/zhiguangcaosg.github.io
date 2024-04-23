@@ -29,7 +29,7 @@ comments: false
 	</li>
         <li> GOH Yong Liang (with <a href="https://www.comp.nus.edu.sg/~leews/" target="_blank"> Prof. LEE </a>), <i>PhD Student</i> @NUS.
 	</li>
-	<li> CHEN Jinbiao (with <a href="https://cde.nus.edu.sg/isem/staff/qin-hanzhang/" target="_blank"> Prof. QIN </a>), <i>Visiting PhD Student</i> @NUS.
+	<li> CHEN Jinbiao (with <a href="https://cse.sysu.edu.cn/content/2551" target="_blank"> Prof. WANG </a> and  <a href="https://cde.nus.edu.sg/isem/staff/qin-hanzhang/" target="_blank"> Prof. QIN </a>), <i>Visiting PhD Student</i> @NUS.
 	</li>
         <li> LI Futong, <i>Master Student</i> @NUS.
 	</li>
