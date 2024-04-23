@@ -33,6 +33,12 @@ comments: false
 	</li>
         <li> LI Futong, <i>Master Student</i> @NUS.
 	</li>
+	<li> ZHOU Jianan (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU.
+	</li>
+        <li> BI Jieyi (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU.
+	</li>
+        <li> SUN Jing (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU.
+	</li>
 		
 	</ul>
 </li>
