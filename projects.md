@@ -1,7 +1,7 @@
 ---
 layout: home2
 permalink: /projects/
-title: Miscellaneous
+title: Projects
 tags: [projects]
 modified: 6-3-2018
 comments: false
@@ -15,40 +15,6 @@ comments: false
 </p>	    
 </li>  
 -->
-
-<li>	    
-<b>Invited Talks</b>:
-	<ul>
-	<li> <i>Learning to Solve Vehicle Routing Problems.</i> HuaWei, Shenzhen, 01.2024.
-	</li>
-		
-	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="https://ai.nju.edu.cn/main.htm" target="_blank">School of Artificial Intelligence</a>, Nanjing University, 10.2023.
-	</li>
-	<li> <i>Learning to Solve Combinatorial Optimization Problems.</i> <a href="https://www.a-star.edu.sg/imre/events/a-star-mini-symposium-on-quantum-science-and-technology" target="_blank">A*STAR Mini Symposium on Quantum Science & Technology</a>, Singapore, 03.2023.
-	</li>
-	<li> <i>Learning to Optimize.</i> <a href="https://cse.sysu.edu.cn/" target="_blank">School of Computer Science and Engineering</a>, Sun Yat-sen University, 12.2022.
-	</li>
-	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/" target="_blank">IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, Victoria University of Wellington, 11.2022.
-	</li>
-	<li> <i>Learning to Solve Vehicle Routing Problems.</i> Department of Electronic Engineering, <a href="https://www.ee.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>, 07.2022.
-	</li>
-	<li> <i>Learning to Solve Vehicle Routing Problems.</i> <a href="http://www.cota-home.org/cictp/cictp2022.html" target="_blank">The 22nd COTA International Conference of Transportation Professionals</a>, 07.2022.
-	</li>
-	</ul>
-</li>
-<br>	
-
-<li>	    
-<b>Editorship</b>:
-	<ul>
-	<li> <b>Associate Editor</b>, <a href="https://digital-library.theiet.org/content/journals/iet-cim" target="_blank"> IET Collaborative Intelligent Manufacturing</a>, 2022 - present.
-	</li>
-	<li> <b>Guest Editor</b>, <i><a href="https://www.hindawi.com/journals/jat/" target="_blank">Journal of Advanced Transportation</a></i> - Special Issue on <a href="https://www.hindawi.com/journals/jat/si/482196/" target="_blank"> Computer Vision Techniques in Intelligent Transportation Systems </a>, 2020.
-	</li>
-	</ul>
-</li>
-<br>
-
 <li>	    
 <b>Projects</b>:
 	<ul>
