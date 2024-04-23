@@ -1,8 +1,8 @@
 ---
 layout: home2
-permalink: /others/
+permalink: /projects/
 title: Miscellaneous
-tags: [others]
+tags: [projects]
 modified: 6-3-2018
 comments: false
 ---
