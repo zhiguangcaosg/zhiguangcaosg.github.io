@@ -1,8 +1,8 @@
 ---
 layout: home2
-permalink: /others/
-title: Miscellaneous
-tags: [others]
+permalink: /services&talks/
+title: Services&Talks
+tags: [services&talks]
 modified: 6-3-2018
 comments: false
 ---
