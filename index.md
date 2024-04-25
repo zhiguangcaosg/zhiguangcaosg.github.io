@@ -38,6 +38,9 @@ image: banner1.png
 </li>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
+<li>	    
+04.2024:  I was invited to serve as Area Chair for NeurIPS'24.
+</li>
 
 <li>	    
 04.2024:  One paper on L2Opt got accepted by IJCAI, where we proposed cross-problem learning for different VRP variants.
