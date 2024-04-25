@@ -33,7 +33,7 @@ comments: false
 <li>	    
 <b>Conference AC/SPC/PC/Reviewer</b>:
 	<ul>
-	<li> <b>Area Chair</b>: ICML'24, KDD'24, IEEE CAI'24.
+	<li> <b>Area Chair</b>: NeurIPS'24, ICML'24, KDD'24, IEEE CAI'24.
 	</li>
 	<li> <b>Senior PC</b>: IJCAI'23.
 	</li>
