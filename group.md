@@ -31,7 +31,7 @@ comments: false
 	</li>
 	<li> CHEN Jinbiao (with <a href="https://cse.sysu.edu.cn/content/2551" target="_blank"> Prof. WANG </a> and  <a href="https://cde.nus.edu.sg/isem/staff/qin-hanzhang/" target="_blank"> Prof. QIN </a>), <i>Visiting PhD Student</i> @NUS.
 	</li>
-        <li> LI Futong, <i>Master Student</i> @NUS.
+        <li> LI Futong, <i>Intern</i> @SMU & <i>Master Student</i> @NUS.
 	</li>
 	<li> ZHOU Jianan (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU.
 	</li>
