@@ -8,20 +8,14 @@ comments: false
 ---
 
 <ul style="margin-left:0px;">
-<!-----
-<li>	    
-<p>
-<b>Guest Editor</b>, <a href="https://www.hindawi.com/journals/mpe/" target="_blank"> Mathematical Problems in Engineering</a>, 2020.
-</p>	    
-</li>  
--->
-
 
 
 <li>	    
 <b>Editorship</b>:
 	<ul>
 	<li> <b>Associate Editor</b>, <a href="https://digital-library.theiet.org/content/journals/iet-cim" target="_blank"> IET Collaborative Intelligent Manufacturing</a>, 2022 - present.
+	</li>
+	<li> <b>Guest Editor</b>, <i><a href="https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation" target="_blank">Swarm and Evolutionary Computation</a></i> - Special Issue on <a href="https://www.sciencedirect.com/journal/swarm-and-evolutionary-computation/about/call-for-papers" target="_blank"> Integration Method of Reinforcement Learning and Evolutionary Algorithm: Approaches and Applications </a>, 2024.
 	</li>
 	<li> <b>Guest Editor</b>, <i><a href="https://www.hindawi.com/journals/jat/" target="_blank">Journal of Advanced Transportation</a></i> - Special Issue on <a href="https://www.hindawi.com/journals/jat/si/482196/" target="_blank"> Computer Vision Techniques in Intelligent Transportation Systems </a>, 2020.
 	</li>
