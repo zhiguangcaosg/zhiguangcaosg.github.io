@@ -21,7 +21,7 @@ comments: false
 	<ul>
 	<li> YI Hang, <i>Research Engineer</i> @SMU.
 	</li>
-	<li> HUANG Ziwei, <i>Intern</i> @SMU.
+	<li> HUANG Ziwei, <i>Research Engineer</i> @SMU.
 	</li>
 	<li> GUI Shuangchun, <i>Intern</i> @SMU.
 	</li>
