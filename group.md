@@ -27,6 +27,8 @@ comments: false
 	</li>
 	<li> PAN Zhaoye, <i>Intern</i> @SMU.
 	</li>
+	<li> ZHANG Zhi, <i>Intern</i> @SMU.
+	</li>
         <li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU.
 	</li>
         <li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU.
