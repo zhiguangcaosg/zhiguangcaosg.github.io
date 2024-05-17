@@ -23,7 +23,7 @@ comments: false
 	</li>
 	<li> HUANG Ziwei, <i>Research Engineer</i> @SMU.
 	</li>
-	<li> GUI Shuangchun, <i>Intern</i> @SMU.
+	<li> GUI Shuangchun, <i>Research Engineer</i> @SMU.
 	</li>
 	<li> PAN Zhaoye, <i>Intern</i> @SMU.
 	</li>
