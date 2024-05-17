@@ -39,6 +39,8 @@ comments: false
 	</li>
         <li> LI Futong, <i>Intern</i> @SMU & <i>Master Student</i> @NUS.
 	</li>
+	<li> MA Yining (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>Postdoc</i> @NTU.
+	</li>
 	<li> ZHOU Jianan (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU.
 	</li>
         <li> BI Jieyi (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU.
