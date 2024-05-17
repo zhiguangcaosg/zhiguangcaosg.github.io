@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+05.2024:  One paper on L2Opt got accepted by KDD'24, where we solved more realistic TSPs using hierarchical neural solvers.
+</li>
+
+<li>	    
 05.2024:  Two papers on L2Opt got accepted by ICML'24, where we solved cross-problem vrps using mixture of experts and boosted column generation using adaptive stablization.
 </li>
 
