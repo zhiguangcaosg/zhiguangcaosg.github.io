@@ -31,17 +31,17 @@ comments: false
 	</li>
 	<li> PAN Zhaoye, <i>Intern</i> @SMU.
 	</li>
-	<li> ZHANG Zhi, <i>Intern</i> @SMU.
-	</li>
-        <li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU.
+	<li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU.
 	</li>
         <li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU.
-	<li> LIAO Shubing, <i>Visiting Student</i> @SMU.
 	</li>
+	<li> LIAO Shubing, <i>Visiting Student</i> @SMU.
 	</li>
         <li> GOH Yong Liang (with <a href="https://www.comp.nus.edu.sg/~leews/" target="_blank"> Prof. LEE </a>), <i>PhD Student</i> @NUS.
 	</li>
 	<li> CHEN Jinbiao (with <a href="https://cse.sysu.edu.cn/content/2551" target="_blank"> Prof. WANG </a> and  <a href="https://cde.nus.edu.sg/isem/staff/qin-hanzhang/" target="_blank"> Prof. QIN </a>), <i>Visiting PhD Student</i> @NUS.
+	</li>
+	<li> ZHANG Zhi, <i>Intern</i> @SMU & <i>Master Student</i> @NUS.
 	</li>
         <li> LI Futong, <i>Intern</i> @SMU & <i>Master Student</i> @NUS.
 	</li>
