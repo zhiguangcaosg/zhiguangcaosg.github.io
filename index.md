@@ -12,7 +12,7 @@ image: banner1.png
 
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3> <br>
 
-<p align="justify">I am currently an Assistant Professor at the School of Computing and Information Systems (SCIS), Singapore Management University (SMU). Prior to that, I was a Scientist at the Agency for Science Technology and Research (A*STAR), a Research Assistant Professor at the National University of Singapore (NUS), and a Research Fellow at the Nanyang Technological University (NTU). I received the Ph.D from Interdisciplinary Graduate School & School of Computer Science and Engineering, and the M.Sc from School of Electrical and Electronic Engineering, NTU. I received the B.Eng in Automation from Guangdong University of Technology (GDUT), China. I am leading the L2Opt Group. You may approach me at</p>
+<p align="justify">I am currently an Assistant Professor at the School of Computing and Information Systems (SCIS), Singapore Management University (SMU). I received the Ph.D from Interdisciplinary Graduate School & School of Computer Science and Engineering, and the M.Sc from School of Electrical and Electronic Engineering, NTU. I received the B.Eng in Automation from Guangdong University of Technology (GDUT), China. I am leading the L2Opt Group at SMU. You may approach me at</p>
 <li>	    
 <b>Office</b>: Room 5027, 80 Stamford Road, Singapore 178902
 </li>
