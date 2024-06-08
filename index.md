@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+06.2024:  One paper on green VRP got accepted by CAOR, where we solved GVRP with steep roads using improved ALNS.
+</li>
+
+<li>	    
 05.2024:  One paper on L2Opt got accepted by SIGKDD'24, where we solved more realistic TSPs using hierarchical neural solvers.
 </li>
 
