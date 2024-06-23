@@ -27,7 +27,9 @@ comments: false
 	</li>
 	<li> GUI Shuangchun, <i>Research Engineer</i> @SMU.
 	</li>
-	<li> Shen Bolin, <i>Research Engineer</i> @SMU.
+	<li> SHEN Bolin, <i>Research Engineer</i> @SMU.
+	</li>
+	<li> MALIK Manuj, <i>Research Engineer</i> @SMU.
 	</li>
 	<li> PAN Zhaoye, <i>Intern</i> @SMU.
 	</li>
