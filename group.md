@@ -31,9 +31,11 @@ comments: false
 	</li>
 	<li> MALIK Manuj, <i>Research Engineer</i> @SMU.
 	</li>
-	<li> PAN Zhaoye, <i>Intern</i> @SMU.
+	<li> PAN Zhaoye, <i>Remote Intern</i> @SMU.
 	</li>
-	<li> HE Liyuan, <i>Intern</i> @SMU.
+	<li> HE Liyuan, <i>Remote Intern</i> @SMU.
+	</li>
+	<li> ZHU Rongjie, <i>Remote Intern</i> @SMU.
 	</li>
 	<li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU.
 	</li>
@@ -47,9 +49,7 @@ comments: false
 	</li>
 	<li> ZHANG Zhi, <i>Intern</i> @SMU & <i>Master Student</i> @NUS.
 	</li>
-        <li> LI Futong, <i>Intern</i> @SMU & <i>Master Student</i> @NUS.
-	</li>
-	<li> MA Yining (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>Postdoc</i> @NTU.
+      	<li> MA Yining (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>Postdoc</i> @NTU.
 	</li>
 	<li> ZHOU Jianan (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU.
 	</li>
