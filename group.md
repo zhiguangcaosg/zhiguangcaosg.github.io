@@ -19,9 +19,9 @@ comments: false
 <li>	    
 <b>L2Opt Group</b>:
 	<ul>
-	<li> XIAO Xiangjie, <i>PhD Student</i> @SMU.
+	<li> YI Hang, <i>PhD Student</i> @SMU.
 	</li>
-	<li> YI Hang, <i>Research Engineer</i> @SMU.
+        <li> XIAO Xiangjie, <i>PhD Student</i> @SMU.
 	</li>
 	<li> HUANG Ziwei, <i>Research Engineer</i> @SMU.
 	</li>
