@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+08.2024:  I was invited to serve as Area Chair for ICLR'25.
+</li>
+
+<li>	    
 08.2024:  One paper on L2Opt got accepted by T-PAMI, where we solved PDP and its variants by integrating Learning to Search (or Improve) and Learning to Construct.
 </li>
 
