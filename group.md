@@ -33,8 +33,6 @@ comments: false
 	</li>
 	<li> PAN Zhaoye, <i>Remote Intern</i> @SMU.
 	</li>
-	<li> HE Liyuan, <i>Remote Intern</i> @SMU.
-	</li>
 	<li> ZHU Rongjie, <i>Remote Intern</i> @SMU.
 	</li>
 	<li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU.
