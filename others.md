@@ -22,7 +22,7 @@ comments: false
 	<ul>
 	<li> <b>World’s Top 2% Scientist by Stanford University</b>, 2024.
 	</li>
-	<li> <b>Outstanding Paper Award</b>: <i> Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning, </i>, IEEE Transactions on Industrial Informatics, 2022.
+	<li> <b>Outstanding Paper Award</b>: <i> Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning, </i> IEEE Transactions on Industrial Informatics, 2022.
 	</li>
 	<li> <b>Nobert Wiener Review Award</b>: <i> A Review on Swarm Intelligence and Evolutionary Algorithms for Solving Flexible Job Shop Scheduling Problems</i>, IEEE/CAA J. Autom. Sinica, 2022.
 	</li>
