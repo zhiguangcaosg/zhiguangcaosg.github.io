@@ -40,7 +40,7 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
-09.2024:  I become the <b> World’s Top 2% Scientist <\b> by Stanford University.
+09.2024:  I become the <b> World’s Top 2% Scientist </b> by Stanford University.
 </li>
 
 <li>	    
