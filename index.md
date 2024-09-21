@@ -40,11 +40,11 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
-09.2024:  I was elected as the <b> World’s Top 2% Scientist </b> by Stanford University.
+09.2024:  I was selected as the <b> World’s Top 2% Scientist </b> by Stanford University.
 </li>
 
 <li>	    
-08.2024:  Our work titled 'Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning' got <b>Outstanding Paper Award</b> by IEEE Transactions on Industrial Informatics.
+08.2024:  Our work titled 'Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning' got the <b>Outstanding Paper Award</b> by IEEE Transactions on Industrial Informatics.
 </li>
 <li>	    
 08.2024:  I was invited to serve as Area Chair for ICLR'25.
