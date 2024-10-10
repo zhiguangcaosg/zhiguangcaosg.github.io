@@ -40,7 +40,11 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
-09.2024:  Three papers on L2Opt got accepted in NeurIPS'24.
+10.2024:  One paper on L2Opt got accepted by TELO.
+</li>
+
+<li>	    
+09.2024:  Three papers on L2Opt got accepted at NeurIPS'24.
 </li>
 
 <li>	    
@@ -55,7 +59,7 @@ image: banner1.png
 </li>
 
 <li>	    
-08.2024:  One paper on L2Opt got accepted in T-PAMI, where we solved PDP and its variants by integrating Learning to Search (or Improve) and Learning to Construct.
+08.2024:  One paper on L2Opt got accepted by T-PAMI, where we solved PDP and its variants by integrating Learning to Search (or Improve) and Learning to Construct.
 </li>
 
 <li>	    
@@ -63,19 +67,19 @@ image: banner1.png
 </li>
 
 <li>	    
-06.2024:  One paper on green VRP got accepted in CAOR, where we solved GVRP with steep roads using improved ALNS.
+06.2024:  One paper on green VRP got accepted by CAOR, where we solved GVRP with steep roads using improved ALNS.
 </li>
 
 <li>	    
-05.2024:  One paper on L2Opt got accepted in SIGKDD'24, where we solved more realistic TSPs using hierarchical neural solvers.
+05.2024:  One paper on L2Opt got accepted at SIGKDD'24, where we solved more realistic TSPs using hierarchical neural solvers.
 </li>
 
 <li>	    
-05.2024:  Two papers on L2Opt got accepted in ICML'24, where we solved cross-problem vrps using mixture of experts and boosted column generation using adaptive stablization.
+05.2024:  Two papers on L2Opt got accepted at ICML'24, where we solved cross-problem vrps using mixture of experts and boosted column generation using adaptive stablization.
 </li>
 
 <li>	    
-04.2024:  One paper on L2Opt got accepted in UAI'24, where we improved the neural JSSP solver by learning advanced topological representations.
+04.2024:  One paper on L2Opt got accepted at UAI'24, where we improved the neural JSSP solver by learning advanced topological representations.
 </li>
 
 <li>	    
@@ -83,7 +87,7 @@ image: banner1.png
 </li>
 
 <li>	    
-04.2024:  One paper on L2Opt got accepted by IJCAI, where we proposed cross-problem learning for different VRP variants.
+04.2024:  One paper on L2Opt got accepted at IJCAI'24, where we proposed cross-problem learning for different VRP variants.
 </li>
 
 <li>	    
@@ -95,11 +99,11 @@ image: banner1.png
 </li>
 
 <li>	    
-03.2024:  One paper on L2Opt got accepted in SMCA, where we proposed dynamic algorithm selection based on reinforcement learning.
+03.2024:  One paper on L2Opt got accepted by SMCA, where we proposed dynamic algorithm selection based on reinforcement learning.
 </li>
 
 <li>	    
-02.2024:  Two papers on L2Opt got accepted in TNNLS, where we solved VRPs with backhauls and multi-objective VRPs using DRL, respectively.
+02.2024:  Two papers on L2Opt got accepted by TNNLS, where we solved VRPs with backhauls and multi-objective VRPs using DRL, respectively.
 </li>
 
 <li>	    
@@ -115,23 +119,23 @@ image: banner1.png
 </li>
 
 <li>	    
-01.2024:  One paper on L2Opt got accepted in ICLR'24, where we solved JSSP using DRL based improvement heuristic.
+01.2024:  One paper on L2Opt got accepted at ICLR'24, where we solved JSSP using DRL based improvement heuristic.
 </li>
 
 <li>	    
-01.2024:  One paper on L2Opt got accepted in T-ASE, where we solved large-scale UAV routing using DRL based divide-and-conquer.
+01.2024:  One paper on L2Opt got accepted by T-ASE, where we solved large-scale UAV routing using DRL based divide-and-conquer.
 </li>
 
 <li>	    
-01.2024:  One paper on L2Opt got accepted in T-ITS, where we solved stochastic shortest path problem using actor-critic based RL.
+01.2024:  One paper on L2Opt got accepted by T-ITS, where we solved stochastic shortest path problem using actor-critic based RL.
 </li>
 
 <li>	    
-12.2023:  One paper on L2Opt got accepted in AAMAS'24, where we solved multi-objective VRPs, including MOTSP and MOCVRP.
+12.2023:  One paper on L2Opt got accepted at AAMAS'24, where we solved multi-objective VRPs, including MOTSP and MOCVRP.
 </li>
 
 <li>	    
-12.2023:  One paper on L2Opt got accepted in AAAI'24, where we solved large-scale VRPs (including TSP, ATSP, CVRP, and PCTSP) in real-time.
+12.2023:  One paper on L2Opt got accepted at AAAI'24, where we solved large-scale VRPs (including TSP, ATSP, CVRP, and PCTSP) in real-time.
 </li>
 
 <li>	    
@@ -139,7 +143,7 @@ image: banner1.png
 </li>
 
 <li>	    
-09.2023:  Six papers on L2Opt got accepted in NeurIPS'23.
+09.2023:  Six papers on L2Opt got accepted at NeurIPS'23.
 </li>
 
 <li>	    
