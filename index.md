@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+11.2024:  Two papers on L2Opt got accepted at SIGKDD'25.
+</li>
+
+<li>	    
 10.2024:  One paper on L2Opt got accepted by TELO.
 </li>
 
@@ -63,7 +67,7 @@ image: banner1.png
 </li>
 
 <li>	    
-07.2024:  I was invited to serve as Area Chair for KDD'25 and Senior PC for AAAI'25.
+07.2024:  I was invited to serve as Area Chair for SIGKDD'25 and Senior PC for AAAI'25.
 </li>
 
 <li>	    
@@ -107,7 +111,7 @@ image: banner1.png
 </li>
 
 <li>	    
-02.2024:  I was invited to serve as Area Chair for KDD'24.
+02.2024:  I was invited to serve as Area Chair for SIGKDD'24.
 </li>
 
 <li>	    
