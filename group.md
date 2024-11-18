@@ -29,7 +29,7 @@ comments: false
 	</li>
 	<li> MALIK Manuj, <i>Research Engineer</i> @SMU. (10.2024-Present)
 	</li>
-	<li> SHEN Bolin, <i>Research Engineer</i> @SMU. (09.2024-11.2024)
+	<li> SHEN Bolin, <i>Research Engineer</i> @SMU. (09.2024-11.2024) &rarr 
 	</li>	
 	<li> PAN Zhaoye, <i>Remote Intern</i> @SMU. (06.2024-Present)
 	</li>
