@@ -29,7 +29,7 @@ comments: false
 	</li>
 	<li> MALIK Manuj, <i>Research Engineer</i> @SMU. (10.2024-Present)
 	</li>
-	<li> SHEN Bolin, <i>Research Engineer</i> @SMU. (09.2024-11.2024) -->  <i>PhD Student</i> @Florida State University
+	<li> SHEN Bolin, <i>Research Engineer</i> @SMU. (09.2024-11.2024) --->  <i>PhD Student</i> @Florida State University
 	</li>	
 	<li> PAN Zhaoye, <i>Remote Intern</i> @SMU. (06.2024-Present)
 	</li>
@@ -37,7 +37,7 @@ comments: false
 	</li>
 	<li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU. (10.2023-Present)
 	</li>
-        <li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) &#8594 <i>Research Associate</i> @NTU
+        <li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU
 	</li>
 	<li> LIAO Shubing, <i>Visiting Student</i> @SMU. (09.2023-10.2024)
 	</li>
@@ -47,13 +47,13 @@ comments: false
 	</li>
 	<li> ZHANG Zhi, <i>Intern</i> @SMU & <i>Master Student</i> @NUS. (07.2024-Present)
 	</li>
-      	<li> MA Yining (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>Postdoc</i> @NTU. (07.2023-07.2024) &#8594 <i>Postdoc</i> @MIT
+      	<li> MA Yining (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>Postdoc</i> @NTU. (07.2023-07.2024) ---> <i>Postdoc</i> @MIT
 	</li>
 	<li> ZHOU Jianan (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU. (07.2023-Present)
 	</li>
         <li> BI Jieyi (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU. (07.2023-Present)
 	</li>
-        <li> SUN Jing (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU. (02.2024-08.2024) &#8594 <i>Assistant Professor</i> @City University of Macau
+        <li> SUN Jing (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU. (02.2024-08.2024) ---> <i>Assistant Professor</i> @City University of Macau
 	</li>
 		
 	</ul>
