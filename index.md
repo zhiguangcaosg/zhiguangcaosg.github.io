@@ -40,6 +40,9 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+11.2024:  I was invited to serve as Area Chair for ICML'25.
+</li>
+<li>	    
 11.2024:  Two papers on L2Opt got accepted at SIGKDD'25.
 </li>
 
