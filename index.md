@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+12.2024:  I was invited to serve as Senior PC for IJCAI'25.
+</li>
+
+<li>	    
 11.2024:  I was invited to serve as Area Chair for ICML'25.
 </li>
 <li>	    
