@@ -40,11 +40,11 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
-12.2024:  I was invited to serve as Senior PC for IJCAI'25.
+12.2024:  I will serve as Senior PC for IJCAI'25.
 </li>
 
 <li>	    
-11.2024:  I was invited to serve as Area Chair for ICML'25.
+11.2024:  I will serve as Area Chair for ICML'25.
 </li>
 <li>	    
 11.2024:  Two papers on L2Opt got accepted at SIGKDD'25.
@@ -66,7 +66,7 @@ image: banner1.png
 08.2024:  Our work titled 'Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning' got the <b>Outstanding Paper Award</b> for the IEEE Transactions on Industrial Informatics.
 </li>
 <li>	    
-08.2024:  I was invited to serve as Area Chair for ICLR'25.
+08.2024:  I will serve as Area Chair for ICLR'25.
 </li>
 
 <li>	    
@@ -74,7 +74,7 @@ image: banner1.png
 </li>
 
 <li>	    
-07.2024:  I was invited to serve as Area Chair for SIGKDD'25 and Senior PC for AAAI'25.
+07.2024:  I will serve as Area Chair for SIGKDD'25 and Senior PC for AAAI'25.
 </li>
 
 <li>	    
@@ -94,7 +94,7 @@ image: banner1.png
 </li>
 
 <li>	    
-04.2024:  I was invited to serve as Area Chair for NeurIPS'24.
+04.2024:  I will serve as Area Chair for NeurIPS'24.
 </li>
 
 <li>	    
@@ -118,11 +118,11 @@ image: banner1.png
 </li>
 
 <li>	    
-02.2024:  I was invited to serve as Area Chair for SIGKDD'24.
+02.2024:  I will serve as Area Chair for SIGKDD'24.
 </li>
 
 <li>	    
-01.2024:  I was invited to serve as Area Chair for ICML'24.
+01.2024:  I will serve as Area Chair for ICML'24.
 </li>
 
 <li>	    
