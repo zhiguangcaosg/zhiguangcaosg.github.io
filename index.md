@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+12.2024:  Two papers on L2Opt got accepted at AAAI'25.
+</li>
+
+<li>	    
 12.2024:  I will serve as Senior PC for IJCAI'25.
 </li>
 
