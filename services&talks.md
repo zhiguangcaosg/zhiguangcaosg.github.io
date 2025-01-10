@@ -29,9 +29,9 @@ comments: false
 	<ul>
 	<li> <b>Area Chair</b>: 
 		<ul>
-		<li>  SIGKDD'25 (2nd Cycle), ICML'25, ICLR'25, SIGKDD'25 (1st Cycle), NeurIPS'24, ICML'24, SIGKDD'24.
+		<li>  SIGKDD'25 (2nd Cycle), ICML'25, ICLR'25, SIGKDD'25 (1st Cycle).
 	        </li>
-		<li>  SIGKDD'25 (2nd Cycle), ICML'25, ICLR'25, SIGKDD'25 (1st Cycle), NeurIPS'24, ICML'24, SIGKDD'24.
+		<li>  NeurIPS'24, ICML'24, SIGKDD'24.
 	        </li>
 		</ul>
 	</li>
