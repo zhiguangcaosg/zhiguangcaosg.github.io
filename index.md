@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+01.2025:  I will serve as Area Chair for SIGKDD'25 (2nd Cycle).
+</li>
+
+<li>	    
 12.2024:  Two papers on L2Opt got accepted at AAMAS'25.
 </li>
 
@@ -82,7 +86,7 @@ image: banner1.png
 </li>
 
 <li>	    
-07.2024:  I will serve as Area Chair for SIGKDD'25 and Senior PC for AAAI'25.
+07.2024:  I will serve as Area Chair for SIGKDD'25 (1st Cycle) and Senior PC for AAAI'25.
 </li>
 
 <li>	    
