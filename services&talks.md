@@ -25,7 +25,7 @@ comments: false
 
 	
 <li>	    
-<b>Conference AC/SPC/PC/Reviewer</b>:
+<b>Conference AC/SPC</b>:
 	<ul>
 	<li> <b>Area Chair</b>: 
 		<ul>
