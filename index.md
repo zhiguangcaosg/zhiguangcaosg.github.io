@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+01.2025:  One paper on L2Opt got accepted at TheWebConf'25.
+</li>
+
+<li>	    
 01.2025:  I will serve as Area Chair for SIGKDD'25 (2nd Cycle).
 </li>
 
