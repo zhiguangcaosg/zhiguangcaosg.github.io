@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+02.2025:  One paper on L2Opt got accepted by T-ASE.
+</li>
+
+<li>	    
 01.2025:  One paper on L2Opt got accepted by IJPE.
 </li>
 
