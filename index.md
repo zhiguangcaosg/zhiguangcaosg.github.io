@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+05.2025:  Three papers on L2Opt got accepted at ICML'25.
+</li>
+
+<li>	    
 04.2025:  Four papers on L2Opt got accepted at IJCAI'25.
 </li>
 
