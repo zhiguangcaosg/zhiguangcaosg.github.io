@@ -38,8 +38,7 @@ comments: false
 	</li>	
 	<li> ZHU Rongjie, <i>Remote Intern</i> @SMU. (07.2024-Present)
 	</li>
-	
-        <li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU
+	<li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU
 	</li>
 	<li> LIAO Shubing, <i>Visiting Student</i> @SMU. (09.2023-10.2024)
 	</li>
