@@ -31,12 +31,14 @@ comments: false
 	</li>
 	<li> MALIK Manuj, <i>Research Engineer</i> @SMU. (10.2024-Present)
 	</li>
+        <li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU. (10.2023-Present)
+	</li>
+		
 	<li> SHEN Bolin, <i>Research Engineer</i> @SMU. (09.2024-11.2024) --->  <i>PhD Student</i> @Florida State University
 	</li>	
 	<li> ZHU Rongjie, <i>Remote Intern</i> @SMU. (07.2024-Present)
 	</li>
-	<li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU. (10.2023-Present)
-	</li>
+	
         <li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU
 	</li>
 	<li> LIAO Shubing, <i>Visiting Student</i> @SMU. (09.2023-10.2024)
