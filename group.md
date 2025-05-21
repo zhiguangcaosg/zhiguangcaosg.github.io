@@ -23,6 +23,8 @@ comments: false
 	</li>
         <li> XIAO Xiangjie, <i>PhD Student</i> @SMU. (08.2024-Present)
 	</li>
+	<li> ZHANG Ni, <i>Research Engineer</i> @SMU. (04.2025-Present)
+	</li>
 	<li> HUANG Ziwei, <i>Research Engineer</i> @SMU. (07.2024-Present)
 	</li>
 	<li> GUI Shuangchun, <i>Research Engineer</i> @SMU. (08.2024-Present)
@@ -31,8 +33,6 @@ comments: false
 	</li>
 	<li> SHEN Bolin, <i>Research Engineer</i> @SMU. (09.2024-11.2024) --->  <i>PhD Student</i> @Florida State University
 	</li>	
-	<li> PAN Zhaoye, <i>Remote Intern</i> @SMU. (06.2024-Present)
-	</li>
 	<li> ZHU Rongjie, <i>Remote Intern</i> @SMU. (07.2024-Present)
 	</li>
 	<li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU. (10.2023-Present)
