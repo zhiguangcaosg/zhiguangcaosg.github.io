@@ -40,6 +40,14 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+06.2025:  One paper on L2Opt got accepted by TKDE.
+</li>
+
+<li>	    
+06.2025:  One paper on L2Opt got accepted by IJPR.
+</li>
+
+<li>	    
 05.2025:  Two papers on L2Opt got accepted at SIGKDD'25.
 </li>
 
