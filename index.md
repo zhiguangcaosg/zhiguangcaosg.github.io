@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+07.2025:  One paper on L2Opt got accepted by TMLR.
+</li>
+
+<li>	    
 06.2025:  One paper on L2Opt got accepted by TKDE.
 </li>
 
