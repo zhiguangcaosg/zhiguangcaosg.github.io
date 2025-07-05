@@ -38,8 +38,13 @@ image: banner1.png
 </li>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
+
 <li>	    
-07.2025:  One paper on L2Opt got accepted at ACMMM.
+07.2025:  I will serve as Area Chair for SIGKDD'26 (1st Cycle).
+</li>
+
+<li>	    
+07.2025:  One paper on L2Opt got accepted at ACMMM'25.
 </li>
 
 <li>	    
