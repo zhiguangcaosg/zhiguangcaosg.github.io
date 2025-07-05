@@ -76,6 +76,10 @@ image: banner1.png
 </li>
 
 <li>	    
+03.2025:  I will serve as Area Chair for NeurIPS'25.
+</li>
+
+<li>	    
 03.2025:  One paper on L2Opt got accepted by JCLP.
 </li>
 
