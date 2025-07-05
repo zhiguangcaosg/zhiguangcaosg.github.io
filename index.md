@@ -4,7 +4,7 @@ description: "Zhiguang Cao's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image: banner1.png
 ---
-<h3 style="margin-bottom:0px;padding-top:20px;color:#FF0000">Hiring!!!</h3> <br>
+<h3 style="margin-bottom:0px;padding-top:20px">Hiring!!!</h3> <br>
 
 <p align="justify">I am looking for self-motivated PhD/Master students to join my L2Opt Group at SMU to conduct research on <b>Learning to Optimize</b>, where deep learning (including LLM) is exploited to solve combinatorial optimization problems, especially the vehicle routing problems. The requirement for SMU PhD admission can be found <a href="https://scis.smu.edu.sg/programmes/PhD/admission-fees-scholarships"  target="_blank"> <font color="#0000FF"><b>HERE</b></font></a>. Visiting CSC students/researchers, and remote online interns are also welcome.  Drop me an email if you are interested! </p>
 <br />
@@ -39,7 +39,7 @@ image: banner1.png
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 <li>	    
-08.2025:  One paper on L2Opt got accepted at ACMMM.
+07.2025:  One paper on L2Opt got accepted at ACMMM.
 </li>
 
 <li>	    
