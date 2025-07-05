@@ -40,6 +40,8 @@ comments: false
 	</li>
 	<li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU
 	</li>
+         <li> YU Xiaoshan, <i>Visiting Student</i> @SMU. (02.2025-Present)
+	</li>
 	<li> LIAO Shubing, <i>Visiting Student</i> @SMU. (09.2023-10.2024)
 	</li>
         <li> GOH Yong Liang (with <a href="https://www.comp.nus.edu.sg/~leews/" target="_blank"> Prof. LEE </a>), <i>PhD Student</i> @NUS. (07.2023-Present)
