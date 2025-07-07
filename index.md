@@ -44,7 +44,7 @@ image: banner1.png
 </li>
 
 <li>	    
-07.2025:  One paper on L2Opt got accepted at ACMMM'25.
+07.2025:  One paper on L2Opt got accepted at ACM MM'25.
 </li>
 
 <li>	    
