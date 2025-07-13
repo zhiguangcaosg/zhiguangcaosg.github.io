@@ -48,6 +48,10 @@ image: banner1.png
 </li>
 
 <li>	    
+07.2025:  I will serve as Senior PC for AAAI'26.
+</li>
+
+<li>	    
 07.2025:  One paper on L2Opt got accepted at ACM MM'25.
 </li>
 
