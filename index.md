@@ -44,6 +44,10 @@ image: banner1.png
 </li>
 
 <li>	    
+07.2025:  I am serving as Associate Editor for IEEE Transactions on Industrial Informatics (TII).
+</li>
+
+<li>	    
 07.2025:  I will serve as Area Chair for SIGKDD'26 (1st Cycle).
 </li>
 
