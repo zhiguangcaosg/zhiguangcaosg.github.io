@@ -23,7 +23,7 @@ comments: false
 	</li>
         <li> XIAO Xiangjie, <i>PhD Student</i> @SMU. (08.2024-Present)
 	</li>
-	<li> ZHANG Ni, <i>Research Engineer</i> @SMU. (04.2025-Present)
+	<li> ZHANG Ni, <i>PhD Student</i> @SMU. (08.2025-Present)
 	</li>
 	<li> HUANG Ziwei, <i>Research Engineer</i> @SMU. (07.2024-Present)
 	</li>
