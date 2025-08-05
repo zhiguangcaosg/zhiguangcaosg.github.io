@@ -27,7 +27,7 @@ comments: false
 	<li> <b>PI</b>: <i> Learning Robust Neural Heuristic for Solving Vehicle Routing Problems in Logistics</i> - Ministry of Education (MOE) Tier 1, 2023-2024. 
 	</li>
 	
-	</ul>
+	
 	
 </li>
 <br>
