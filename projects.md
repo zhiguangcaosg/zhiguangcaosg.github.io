@@ -8,13 +8,7 @@ comments: false
 ---
 
 <ul style="margin-left:0px;">
-<!-----
-<li>	    
-<p>
-<b>Guest Editor</b>, <a href="https://www.hindawi.com/journals/mpe/" target="_blank"> Mathematical Problems in Engineering</a>, 2020.
-</p>	    
-</li>  
--->
+
 <li>	    
 <b>Ongoing</b>:
 	<ul>
@@ -26,6 +20,7 @@ comments: false
 	</li>
 	<li> <b>PI</b>: <i> Learning Robust Neural Heuristic for Solving Vehicle Routing Problems in Logistics</i> - Ministry of Education (MOE) Tier 1, 2023-2024. 
 	</li>
+        </ul>
 	
 	
 	
@@ -46,5 +41,4 @@ comments: false
 <br>
 
 
-</ul>
 
