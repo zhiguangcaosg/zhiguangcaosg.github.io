@@ -12,7 +12,7 @@ comments: false
 <li>	    
 <b>Ongoing</b>:
 	<ul>
-	<li> <b>Co-PI (SMU PI)</b>: <i> Trustworthy Human-AI Combinatorial Optimization with Language Feedback</i> - AISG, 2025-2027.
+	<li> <b>Co-PI (SMU PI)</b>: <i> Trustworthy Human-AI Combinatorial Optimization with Language Feedback</i> - AISG, 2025-2027 (with NTU \& MIT).
 	</li>
 	<li> <b>Co-PI </b>: <i> Deploying Mobile Crowdsourcing Emergency Supplies to Improve Emergency Response Times</i> - SMU-UofT Grant, 2025-2026.
 	</li>
