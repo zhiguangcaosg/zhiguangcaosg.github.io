@@ -21,7 +21,7 @@ comments: false
 	<ul>
 	<li> YI Hang, <i>PhD Student</i> @SMU. (08.2024-Present)
 	</li>
-        <li> XIAO Xiangjie, <i>PhD Student</i> @SMU. (08.2024-Present)
+    <li> XIAO Xiangjie, <i>PhD Student</i> @SMU. (08.2024-Present)
 	</li>
 	<li> ZHANG Ni, <i>PhD Student</i> @SMU. (08.2025-Present)
 	</li>
@@ -31,7 +31,7 @@ comments: false
 	</li>
 	<li> MALIK Manuj, <i>Research Engineer</i> @SMU. (10.2024-Present)
 	</li>
-        <li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU. (10.2023-Present)
+    <li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU. (10.2023-Present)
 	</li>
 		
 	<li> SHEN Bolin, <i>Research Engineer</i> @SMU. (09.2024-11.2024) --->  <i>PhD Student</i> @Florida State University
@@ -40,7 +40,13 @@ comments: false
 	</li>
 	<li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU
 	</li>
-         <li> YU Xiaoshan, <i>Visiting Student</i> @SMU. (02.2025-Present)
+    <li> MA Zeyuan, <i>Visiting Student</i> @SMU. (08.2025-Present)
+	</li>
+    <li> YUAN Haofeng, <i>Visiting Student</i> @SMU. (08.2025-Present)
+	</li>
+    <li> YU Xiaoshan, <i>Visiting Student</i> @SMU. (02.2025-08.2025)
+	</li>
+    <li> WANG Conghui, <i>Visiting Student</i> @SMU. (12.2024-05.2025)
 	</li>
 	<li> LIAO Shubing, <i>Visiting Student</i> @SMU. (09.2023-10.2024)
 	</li>
