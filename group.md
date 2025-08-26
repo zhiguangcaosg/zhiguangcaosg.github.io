@@ -8,13 +8,6 @@ comments: false
 ---
 
 <ul style="margin-left:0px;">
-<!-----
-<li>	    
-<p>
-<b>Guest Editor</b>, <a href="https://www.hindawi.com/journals/mpe/" target="_blank"> Mathematical Problems in Engineering</a>, 2020.
-</p>	    
-</li>  
--->
 
 <li>	    
 <b>L2Opt Group</b>:
@@ -36,9 +29,9 @@ comments: false
 		
 	<li> SHEN Bolin, <i>Research Engineer</i> @SMU. (09.2024-11.2024) --->  <i>PhD Student</i> @Florida State University
 	</li>	
-	<li> ZHU Rongjie, <i>Remote Intern</i> @SMU. (07.2024-Present)
-	</li>
 	<li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU
+	</li>
+    <li> ZHU Rongjie, <i>Remote Intern</i> @SMU. (07.2024-Present)
 	</li>
     <li> MA Zeyuan, <i>Visiting Student</i> @SMU. (08.2025-Present)
 	</li>
@@ -62,6 +55,7 @@ comments: false
 	</li>
     <li> SUN Jing (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>PhD Student</i> @NTU. (02.2024-08.2024) ---> <i>Assistant Professor</i> @City University of Macau
 	</li>
+ </ul>
 		
 </li>
 <br>	
