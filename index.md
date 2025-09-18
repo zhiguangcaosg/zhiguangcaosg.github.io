@@ -40,6 +40,11 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+09.2025:  Six papers on L2Opt got accepted at NeurIPS'25.
+</li>
+
+
+<li>	    
 08.2025:  I will serve as Area Chair for ICLR'26.
 </li>
 
