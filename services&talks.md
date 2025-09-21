@@ -59,7 +59,11 @@ comments: false
 
 <li>	    
 <b>Invited Talks</b>:
+
+ 
 	<ul>
+    <li> <i>Towards Foundation Models for Solving Vehicle Routing Problems.</i> ECML PKDD Workshop, Porto, 01.2025.
+	</li>
 	<li> <i>Learning to Solve Vehicle Routing Problems.</i> HuaWei, Shenzhen, 01.2024.
 	</li>
 		
