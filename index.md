@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+11.2025:  I gave a talk at the Southern University of Science and Technology (SUSTech), China.
+</li>
+
+<li>	    
 11.2025:  Three papers on L2Opt got accepted at AAAI'26.
 </li>
 
