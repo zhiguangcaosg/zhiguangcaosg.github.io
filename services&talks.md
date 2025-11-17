@@ -27,8 +27,17 @@ comments: false
 
 	
 <li>	    
-<b>Conference AC/SPC</b>:
+<b>Conference Organizing Committee/AC/SPC</b>:
 	<ul>
+
+	<li> <b>Chair/Co-Chair</b>: 
+		<ul>
+		
+		<li>  Co-Chair of Award and Data Challenge, PHM-AP 2025.
+	        </li>
+		</ul>
+	</li>
+	
 	<li> <b>Area Chair</b>: 
 		<ul>
 		<li>  ICLR'26, SIGKDD'26 (1st Cycle).
