@@ -52,6 +52,10 @@ image: banner1.png
 </li>
 
 <li>	    
+11.2025:  I will server as Co-Chair of Award and Data Challenge for PHM-AP 2025.
+</li>
+
+<li>	    
 09.2025:  I gave a keynote talk at the ECML PKDD workshop.
 </li>
 
