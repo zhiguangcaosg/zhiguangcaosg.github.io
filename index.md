@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+11.2025:  I will serve as Area Chair for ICML'26.
+</li>
+
+<li>	    
 11.2025:  I gave a talk at the Southern University of Science and Technology (SUSTech), China.
 </li>
 
