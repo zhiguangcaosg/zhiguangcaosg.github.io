@@ -20,7 +20,7 @@ comments: false
 <li>	    
 <b>Awards</b>:
 	<ul>
-	<li> <b>World’s Top 2% Scientist by Stanford University</b>, 2024.
+	<li> <b>World’s Top 2% Scientist by Stanford University</b>, 2025, 2024.
 	</li>
 	<li> <b>Outstanding Paper Award</b>: <i> Flexible Job Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning, </i> IEEE Transactions on Industrial Informatics, 2022.
 	</li>
