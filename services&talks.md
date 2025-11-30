@@ -35,6 +35,9 @@ comments: false
 		
 		<li>  Co-Chair of Award and Data Challenge, PHM-AP 2025.
 	        </li>
+
+			<li>  Session Chair of AI for Planning and Scheduling, IFORS 2026.
+	        </li>
 		</ul>
 	</li>
 	
