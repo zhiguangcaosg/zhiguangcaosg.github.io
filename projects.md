@@ -12,7 +12,7 @@ comments: false
 <li>	    
 <b>Ongoing</b>:
 	<ul>
-	<li> <b>PI (SMU PI)</b>: <i> VISTA: A Value-Informed Safety \& Trust Architecture for Autonomous Agents</i> - AISG, 2026-2028 (with NUS).
+	<li> <b>PI (SMU PI)</b>: <i> VISTA: A Value-Informed Safety & Trust Architecture for Autonomous Agents</i> - AISG, 2026-2028 (with NUS).
 	</li>
 	<li> <b>Co-PI (SMU PI)</b>: <i> Trustworthy Human-AI Combinatorial Optimization with Language Feedback</i> - AISG, 2025-2027 (with NTU&MIT).
 	</li>
