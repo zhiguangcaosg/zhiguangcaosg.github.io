@@ -38,7 +38,7 @@ comments: false
 <li>	    
 <b>IEEE Society Member</b>:
 	<ul>
-	<li> <b>Member</b>, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/" target="_blank"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a> with IEEE Computational Intelligence Society, 2022 - Present.
+	<li> <b>Senior Member</b>, <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/" target="_blank"> IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a> with IEEE Computational Intelligence Society, 2022 - Present.
 	</li>
 	</ul>
 </li>
