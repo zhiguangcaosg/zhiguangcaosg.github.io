@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+12.2025:  Our project - VISTA: A Value-Informed Safety & Trust Architecture for Autonomous Agents, was awarded by AISG. 
+</li>
+
+<li>	    
 12.2025:  I will serve as Session Chair of AI for Planning and Scheduling for IFORS'26.
 </li>
 
@@ -71,6 +75,9 @@ image: banner1.png
 09.2025:  Six papers on L2Opt got accepted at NeurIPS'25.
 </li>
 
+<li>	    
+08.2025:  Our project - Trustworthy Human-AI Combinatorial Optimization with Language Feedback, was awarded by AISG. 
+</li>
 
 <li>	    
 08.2025:  I will serve as Area Chair for ICLR'26.
