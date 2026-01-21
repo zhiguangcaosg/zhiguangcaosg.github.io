@@ -38,6 +38,9 @@ image: banner1.png
 </li>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
+<li>	    
+01.2026:  I will serve as Area Chair for SIGKDD'26 (2nd Cycle).
+</li>
 
 <li>	    
 01.2026: One paper on L2Opt got accepted by TEVC. 
