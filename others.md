@@ -55,9 +55,9 @@ comments: false
 <li>	    
 <b>Teaching</b>:
 	<ul>
-	<li> Statistical Thinking of Data Science (CS105), SMU, Jan, 2025.
+	<li> AI & Uncertainty Reasoning (CS601), SMU, Jan, 2026.
 	</li>
-	<li> Statistical Thinking of Data Science (CS105), SMU, Jan, 2024.
+	<li> Statistical Thinking of Data Science (CS105), SMU, Jan, 2026, 2025, 2024.
 	</li>
 	<li> AI Summer School: Reinforcement Learning and Its Applications, NUS, Jul, 2019.
 	</li>
