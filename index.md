@@ -39,6 +39,10 @@ image: banner1.png
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 <li>	    
+01.2026: Eight papers on L2Opt got accepted at ICLR'26. 
+</li>
+
+<li>	    
 01.2026:  I will serve as Area Chair for SIGKDD'26 (2nd Cycle).
 </li>
 
