@@ -75,6 +75,9 @@ comments: false
  
 	<ul>
     
+	<li> <i>Learning to Solve Vehicle Routing Problems on Graphs.</i> AAAI Workshop (GCLR), China, 01.2026.
+	</li>
+	
 	<li> <i>Towards Foundation Models for Solving Vehicle Routing Problems.</i> Southern University of Science and Technology (SUSTech), China, 11.2025.
 	</li>
 	
