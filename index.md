@@ -40,7 +40,7 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
-01.2026: I gave a talk at the GCLR workshop at AAAI'26. 
+01.2026: I gave a talk at the GCLR workshop, AAAI'26. 
 </li>
 
 <li>	    
