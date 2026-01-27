@@ -38,6 +38,11 @@ image: banner1.png
 </li>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
+
+<li>	    
+01.2026: I gave a talk at the GCLR workshop at AAAI'26. 
+</li>
+
 <li>	    
 01.2026: Eight papers on L2Opt got accepted at ICLR'26. 
 </li>
