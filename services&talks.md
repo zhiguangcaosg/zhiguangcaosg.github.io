@@ -75,13 +75,13 @@ comments: false
  
 	<ul>
     
-	<li> <i>Learning to Solve Vehicle Routing Problems on Graphs.</i> AAAI Workshop (GCLR), China, 01.2026.
+	<li> <i>Learning to Solve Vehicle Routing Problems on Graphs.</i> AAAI Workshop (GCLR), Singapore, 01.2026.
 	</li>
 	
 	<li> <i>Towards Foundation Models for Solving Vehicle Routing Problems.</i> Southern University of Science and Technology (SUSTech), China, 11.2025.
 	</li>
 	
-	<li> <i>Towards Foundation Models for Solving Vehicle Routing Problems.</i> ECML PKDD Workshop, Porto, 09.2025.
+	<li> <i>Towards Foundation Models for Solving Vehicle Routing Problems.</i> ECML PKDD Workshop (DSO), Porto, 09.2025.
 	</li>
 	<li> <i>Learning to Solve Vehicle Routing Problems.</i> HuaWei, Shenzhen, 01.2024.
 	</li>
