@@ -22,7 +22,9 @@ comments: false
 	</li>
 	<li> GUI Shuangchun, <i>Research Engineer</i> @SMU. (08.2024-Present)
 	</li>
-	<li> MALIK Manuj, <i>Research Engineer</i> @SMU. (10.2024-Present)
+	<li> YU Yue, <i>Research Engineer</i> @SMU. (10.2025-Present)
+	</li>
+	<li> MALIK Manuj, <i>Research Engineer</i> @SMU. (10.2024-10.2025)
 	</li>
     <li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU. (10.2023-Present)
 	</li>
