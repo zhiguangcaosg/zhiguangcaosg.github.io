@@ -74,10 +74,6 @@ image: banner1.png
 </li>
 
 <li>	    
-12.2025:  I will serve as Session Chair of AI for Planning and Scheduling for IFORS'26.
-</li>
-
-<li>	    
 11.2025:  I will serve as Area Chair for ICML'26.
 </li>
 
