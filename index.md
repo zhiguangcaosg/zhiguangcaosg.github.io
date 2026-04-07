@@ -45,6 +45,10 @@ image: banner1.png
 </li>
 
 <li>	    
+03.2026: I will serve as Area Chair for NeurIPS'26. 
+</li>
+
+<li>	    
 01.2026: I gave a talk at the GCLR workshop, AAAI'26. 
 </li>
 
