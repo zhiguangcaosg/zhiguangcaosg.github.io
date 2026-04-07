@@ -40,7 +40,7 @@ comments: false
 	
 	<li> <b>Area Chair</b>: 
 		<ul>
-		<li>  SIGKDD'26 (2nd Cycle), ICML'26, ICLR'26, SIGKDD'26 (1st Cycle).
+		<li> NeurIPS'26, SIGKDD'26 (2nd Cycle), ICML'26, ICLR'26, SIGKDD'26 (1st Cycle).
 	        </li>
 		<li>  SIGKDD'25 (2nd Cycle), NeurIPS'25, ICML'25, ICLR'25, SIGKDD'25 (1st Cycle).
 	        </li>
