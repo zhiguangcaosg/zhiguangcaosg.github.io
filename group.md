@@ -22,11 +22,17 @@ comments: false
 	</li>
 	<li> GUI Shuangchun, <i>Research Engineer</i> @SMU. (08.2024-Present)
 	</li>
-	<li> YU Yue, <i>Research Engineer</i> @SMU. (10.2025-Present)
+
+	<li> ZHAO Yuxin, <i>Research Engineer</i> @SMU. (04.2026-Present)
 	</li>
+	
+	
 	<li> MALIK Manuj, <i>Research Engineer</i> @SMU. (10.2024-10.2025)
 	</li>
     <li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU. (10.2023-Present)
+	</li>
+
+	<li> YU Yue, <i>Research Engineer</i> @SMU. (10.2025-04.2026) --->  <i>PhD Student</i> @Eindhoven University of Technology
 	</li>
 		
 	<li> SHEN Bolin, <i>Research Engineer</i> @SMU. (09.2024-11.2024) --->  <i>PhD Student</i> @Florida State University
@@ -34,6 +40,10 @@ comments: false
 	<li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU
 	</li>
     <li> ZHU Rongjie, <i>Remote Intern</i> @SMU. (07.2024-Present)
+	
+	</li>
+    <li> LI Yuanshu, <i>Visiting Student</i> @SMU. (03.2026-Present)
+	
 	</li>
     <li> MA Zeyuan, <i>Visiting Student</i> @SMU. (08.2025-Present)
 	</li>
