@@ -18,13 +18,20 @@ comments: false
 	</li>
 	<li> ZHANG Ni, <i>PhD Student</i> @SMU. (08.2025-Present)
 	</li>
-	<li> HUANG Ziwei, <i>Research Engineer</i> @SMU. (07.2024-Present)
-	</li>
-	<li> GUI Shuangchun, <i>Research Engineer</i> @SMU. (08.2024-Present)
-	</li>
 
 	<li> ZHAO Yuxin, <i>Research Engineer</i> @SMU. (04.2026-Present)
 	</li>
+
+	<li> ZHU Jianghan, <i>Research Engineer</i> @SMU. (04.2026-Present)
+	</li>
+	
+	<li> HUANG Ziwei, <i>Research Engineer</i> @SMU. (07.2024-Present)
+	</li>
+		
+	<li> GUI Shuangchun, <i>Research Engineer</i> @SMU. (08.2024-Present)
+	</li>
+
+	
 	
 	
 	<li> MALIK Manuj, <i>Research Engineer</i> @SMU. (10.2024-10.2025)
