@@ -19,12 +19,12 @@ comments: false
 	<li> ZHANG Ni, <i>PhD Student</i> @SMU. (08.2025-Present)
 	</li>
 
+    <li> ZHU Jianghan, <i>Research Engineer</i> @SMU. (03.2026-Present)
+	</li>
+	
 	<li> ZHAO Yuxin, <i>Research Engineer</i> @SMU. (04.2026-Present)
 	</li>
 
-	<li> ZHU Jianghan, <i>Research Engineer</i> @SMU. (04.2026-Present)
-	</li>
-	
 	<li> HUANG Ziwei, <i>Research Engineer</i> @SMU. (07.2024-Present)
 	</li>
 		
