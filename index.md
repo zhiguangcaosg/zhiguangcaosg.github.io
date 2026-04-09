@@ -6,13 +6,13 @@ image: banner1.png
 ---
 <h3 style="margin-bottom:0px;padding-top:20px">Hiring!!!</h3> <br>
 
-<p align="justify">I am looking for self-motivated PhD/Master students to join my L2Opt Group at SMU to conduct research on <b>Learning to Optimize</b>, where deep learning (including LLM) is exploited to solve combinatorial optimization problems, especially the vehicle routing problems. The requirement for SMU PhD admission can be found <a href="https://scis.smu.edu.sg/programmes/PhD/admission-fees-scholarships"  target="_blank"> <font color="#0000FF"><b>HERE</b></font></a>. Visiting CSC students/researchers, and remote online interns are also welcome.  Drop me an email if you are interested! </p>
+<p align="justify">I am looking for self-motivated PhD/Master students to join my AI4Opt Group at SMU to conduct research on <b>Learning to Optimize</b>, where deep learning (including LLM) is exploited to solve combinatorial optimization problems, especially the vehicle routing problems. The requirement for SMU PhD admission can be found <a href="https://scis.smu.edu.sg/programmes/PhD/admission-fees-scholarships"  target="_blank"> <font color="#0000FF"><b>HERE</b></font></a>. Visiting CSC students/researchers, and remote online interns are also welcome.  Drop me an email if you are interested! </p>
 <br />
 
 
 <h3 style="margin-bottom:0px;padding-top:20px;">About Me</h3> <br>
 
-<p align="justify">I am currently an Assistant Professor at the School of Computing and Information Systems (SCIS), Singapore Management University (SMU). I received the Ph.D from Interdisciplinary Graduate School & School of Computer Science and Engineering, and the M.Sc from School of Electrical and Electronic Engineering, NTU. I received the B.Eng in Automation from Guangdong University of Technology (GDUT), China. I am leading the L2Opt Group at SMU. You may approach me at</p>
+<p align="justify">I am currently an Assistant Professor at the School of Computing and Information Systems (SCIS), Singapore Management University (SMU). I received the Ph.D from Interdisciplinary Graduate School & School of Computer Science and Engineering, and the M.Sc from School of Electrical and Electronic Engineering, NTU. I received the B.Eng in Automation from Guangdong University of Technology (GDUT), China. I am leading the AI4Opt Group at SMU. You may approach me at</p>
 <li>	    
 <b>Office</b>: Room 5027, 80 Stamford Road, Singapore 178902
 </li>
@@ -53,7 +53,7 @@ image: banner1.png
 </li>
 
 <li>	    
-01.2026: Eight papers on L2Opt got accepted at ICLR'26. 
+01.2026: Eight papers on AI4Opt got accepted at ICLR'26. 
 </li>
 
 <li>	    
@@ -61,19 +61,19 @@ image: banner1.png
 </li>
 
 <li>	    
-01.2026: One paper on L2Opt got accepted by TEVC. 
+01.2026: One paper on AI4Opt got accepted by TEVC. 
 </li>
 
 <li>	    
-12.2025: Three papers on L2Opt got accepted at AAMAS'26. 
+12.2025: Three papers on AI4Opt got accepted at AAMAS'26. 
 </li>
 
 <li>	    
-12.2025: One paper on L2Opt got accepted by TRE. 
+12.2025: One paper on AI4Opt got accepted by TRE. 
 </li>
 
 <li>	    
-12.2025: One paper on L2Opt got accepted by CAIE. 
+12.2025: One paper on AI4Opt got accepted by CAIE. 
 </li>
 
 <li>	    
@@ -89,11 +89,11 @@ image: banner1.png
 </li>
 
 <li>	    
-11.2025:  Three papers on L2Opt got accepted at AAAI'26.
+11.2025:  Three papers on AI4Opt got accepted at AAAI'26.
 </li>
 
 <li>	    
-11.2025:  One paper on L2Opt got accepted by IJPR.
+11.2025:  One paper on AI4Opt got accepted by IJPR.
 </li>
 
 <li>	    
@@ -105,7 +105,7 @@ image: banner1.png
 </li>
 
 <li>	    
-09.2025:  Six papers on L2Opt got accepted at NeurIPS'25.
+09.2025:  Six papers on AI4Opt got accepted at NeurIPS'25.
 </li>
 
 <li>	    
@@ -117,7 +117,7 @@ image: banner1.png
 </li>
 
 <li>	    
-07.2025:  One paper on L2Opt got accepted by CAOR.
+07.2025:  One paper on AI4Opt got accepted by CAOR.
 </li>
 
 <li>	    
@@ -133,35 +133,35 @@ image: banner1.png
 </li>
 
 <li>	    
-07.2025:  One paper on L2Opt got accepted at ACM MM'25.
+07.2025:  One paper on AI4Opt got accepted at ACM MM'25.
 </li>
 
 <li>	    
-07.2025:  One paper on L2Opt got accepted by TMLR.
+07.2025:  One paper on AI4Opt got accepted by TMLR.
 </li>
 
 <li>	    
-06.2025:  One paper on L2Opt got accepted by TKDE.
+06.2025:  One paper on AI4Opt got accepted by TKDE.
 </li>
 
 <li>	    
-06.2025:  One paper on L2Opt got accepted by IJPR.
+06.2025:  One paper on AI4Opt got accepted by IJPR.
 </li>
 
 <li>	    
-05.2025:  Two papers on L2Opt got accepted at SIGKDD'25.
+05.2025:  Two papers on AI4Opt got accepted at SIGKDD'25.
 </li>
 
 <li>	    
-05.2025:  Three papers on L2Opt got accepted at ICML'25.
+05.2025:  Three papers on AI4Opt got accepted at ICML'25.
 </li>
 
 <li>	    
-04.2025:  Four papers on L2Opt got accepted at IJCAI'25.
+04.2025:  Four papers on AI4Opt got accepted at IJCAI'25.
 </li>
 
 <li>	    
-04.2025:  One paper on L2Opt got accepted at SIGIR'25.
+04.2025:  One paper on AI4Opt got accepted at SIGIR'25.
 </li>
 
 <li>	    
@@ -169,27 +169,27 @@ image: banner1.png
 </li>
 
 <li>	    
-03.2025:  One paper on L2Opt got accepted by JCLP.
+03.2025:  One paper on AI4Opt got accepted by JCLP.
 </li>
 
 <li>	    
-03.2025:  One paper on L2Opt got accepted by Neural Networks.
+03.2025:  One paper on AI4Opt got accepted by Neural Networks.
 </li>
 
 <li>	    
-02.2025:  One paper on L2Opt got accepted by T-ASE.
+02.2025:  One paper on AI4Opt got accepted by T-ASE.
 </li>
 
 <li>	    
-01.2025:  One paper on L2Opt got accepted by IJPE.
+01.2025:  One paper on AI4Opt got accepted by IJPE.
 </li>
 
 <li>	    
-01.2025:  Five papers on L2Opt got accepted at ICLR'25.
+01.2025:  Five papers on AI4Opt got accepted at ICLR'25.
 </li>
 
 <li>	    
-01.2025:  One paper on L2Opt got accepted at TheWebConf'25.
+01.2025:  One paper on AI4Opt got accepted at TheWebConf'25.
 </li>
 
 <li>	    
@@ -197,11 +197,11 @@ image: banner1.png
 </li>
 
 <li>	    
-12.2024:  Two papers on L2Opt got accepted at AAMAS'25.
+12.2024:  Two papers on AI4Opt got accepted at AAMAS'25.
 </li>
 
 <li>	    
-12.2024:  Two papers on L2Opt got accepted at AAAI'25.
+12.2024:  Two papers on AI4Opt got accepted at AAAI'25.
 </li>
 
 <li>	    
@@ -212,15 +212,15 @@ image: banner1.png
 11.2024:  I will serve as Area Chair for ICML'25.
 </li>
 <li>	    
-11.2024:  Two papers on L2Opt got accepted at SIGKDD'25.
+11.2024:  Two papers on AI4Opt got accepted at SIGKDD'25.
 </li>
 
 <li>	    
-10.2024:  One paper on L2Opt got accepted by TELO.
+10.2024:  One paper on AI4Opt got accepted by TELO.
 </li>
 
 <li>	    
-09.2024:  Three papers on L2Opt got accepted at NeurIPS'24.
+09.2024:  Three papers on AI4Opt got accepted at NeurIPS'24.
 </li>
 
 <li>	    
@@ -235,7 +235,7 @@ image: banner1.png
 </li>
 
 <li>	    
-08.2024:  One paper on L2Opt got accepted by T-PAMI, where we solved PDP and its variants by integrating Learning to Search (or Improve) and Learning to Construct.
+08.2024:  One paper on AI4Opt got accepted by T-PAMI, where we solved PDP and its variants by integrating Learning to Search (or Improve) and Learning to Construct.
 </li>
 
 <li>	    
@@ -247,15 +247,15 @@ image: banner1.png
 </li>
 
 <li>	    
-05.2024:  One paper on L2Opt got accepted at SIGKDD'24, where we solved more realistic TSPs using hierarchical neural solvers.
+05.2024:  One paper on AI4Opt got accepted at SIGKDD'24, where we solved more realistic TSPs using hierarchical neural solvers.
 </li>
 
 <li>	    
-05.2024:  Two papers on L2Opt got accepted at ICML'24, where we solved cross-problem vrps using mixture of experts and boosted column generation using adaptive stablization.
+05.2024:  Two papers on AI4Opt got accepted at ICML'24, where we solved cross-problem vrps using mixture of experts and boosted column generation using adaptive stablization.
 </li>
 
 <li>	    
-04.2024:  One paper on L2Opt got accepted at UAI'24, where we improved the neural JSSP solver by learning advanced topological representations.
+04.2024:  One paper on AI4Opt got accepted at UAI'24, where we improved the neural JSSP solver by learning advanced topological representations.
 </li>
 
 <li>	    
@@ -263,7 +263,7 @@ image: banner1.png
 </li>
 
 <li>	    
-04.2024:  One paper on L2Opt got accepted at IJCAI'24, where we proposed cross-problem learning for different VRP variants.
+04.2024:  One paper on AI4Opt got accepted at IJCAI'24, where we proposed cross-problem learning for different VRP variants.
 </li>
 
 <li>	    
@@ -271,15 +271,15 @@ image: banner1.png
 </li>
 
 <li>	    
-03.2024:  YI Hang joined the L2Opt Group as a research engineer. 
+03.2024:  YI Hang joined the AI4Opt Group as a research engineer. 
 </li>
 
 <li>	    
-03.2024:  One paper on L2Opt got accepted by SMCA, where we proposed dynamic algorithm selection based on reinforcement learning.
+03.2024:  One paper on AI4Opt got accepted by SMCA, where we proposed dynamic algorithm selection based on reinforcement learning.
 </li>
 
 <li>	    
-02.2024:  Two papers on L2Opt got accepted by TNNLS, where we solved VRPs with backhauls and multi-objective VRPs using DRL, respectively.
+02.2024:  Two papers on AI4Opt got accepted by TNNLS, where we solved VRPs with backhauls and multi-objective VRPs using DRL, respectively.
 </li>
 
 <li>	    
@@ -295,23 +295,23 @@ image: banner1.png
 </li>
 
 <li>	    
-01.2024:  One paper on L2Opt got accepted at ICLR'24, where we solved JSSP using DRL based improvement heuristic.
+01.2024:  One paper on AI4Opt got accepted at ICLR'24, where we solved JSSP using DRL based improvement heuristic.
 </li>
 
 <li>	    
-01.2024:  One paper on L2Opt got accepted by T-ASE, where we solved large-scale UAV routing using DRL based divide-and-conquer.
+01.2024:  One paper on AI4Opt got accepted by T-ASE, where we solved large-scale UAV routing using DRL based divide-and-conquer.
 </li>
 
 <li>	    
-01.2024:  One paper on L2Opt got accepted by T-ITS, where we solved stochastic shortest path problem using actor-critic based RL.
+01.2024:  One paper on AI4Opt got accepted by T-ITS, where we solved stochastic shortest path problem using actor-critic based RL.
 </li>
 
 <li>	    
-12.2023:  One paper on L2Opt got accepted at AAMAS'24, where we solved multi-objective VRPs, including MOTSP and MOCVRP.
+12.2023:  One paper on AI4Opt got accepted at AAMAS'24, where we solved multi-objective VRPs, including MOTSP and MOCVRP.
 </li>
 
 <li>	    
-12.2023:  One paper on L2Opt got accepted at AAAI'24, where we solved large-scale VRPs (including TSP, ATSP, CVRP, and PCTSP) in real-time.
+12.2023:  One paper on AI4Opt got accepted at AAAI'24, where we solved large-scale VRPs (including TSP, ATSP, CVRP, and PCTSP) in real-time.
 </li>
 
 <li>	    
@@ -319,11 +319,11 @@ image: banner1.png
 </li>
 
 <li>	    
-09.2023:  Six papers on L2Opt got accepted at NeurIPS'23.
+09.2023:  Six papers on AI4Opt got accepted at NeurIPS'23.
 </li>
 
 <li>	    
-09.2023:  LIU Yunduo and LIAO Shubing joined the L2Opt Group as visiting students.
+09.2023:  LIU Yunduo and LIAO Shubing joined the AI4Opt Group as visiting students.
 </li>
 <li>	    
 07.2023: I joined the School of Computing and Information Systems, SMU, as an Assistant Professor.
