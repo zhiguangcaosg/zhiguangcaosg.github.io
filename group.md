@@ -10,7 +10,7 @@ comments: false
 <ul style="margin-left:0px;">
 
 <li>	    
-<b>L2Opt Group</b>:
+<b>AI4Opt Group</b>:
 	<ul>
 	<li> YI Hang, <i>PhD Student</i> @SMU. (08.2024-Present)
 	</li>
