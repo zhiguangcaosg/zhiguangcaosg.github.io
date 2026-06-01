@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+06.2026: One paper on AI4Opt got accepted by TNNLS. 
+</li>
+
+<li>	    
 05.2026: Two papers on AI4Opt got accepted at SIGKDD'26. 
 </li>
 
