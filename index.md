@@ -38,6 +38,9 @@ image: banner1.png
 </li>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
+<li>	    
+06.2026: I am serving as Action Editor for TMLR. 
+</li>
 
 <li>	    
 06.2026: One paper on AI4Opt got accepted by TNNLS. 
