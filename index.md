@@ -43,6 +43,10 @@ image: banner1.png
 </li>
 
 <li>	    
+06.2026:  I will serve as Senior PC for AAAI'27.
+</li>
+
+<li>	    
 06.2026: One paper on AI4Opt got accepted by TNNLS. 
 </li>
 
