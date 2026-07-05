@@ -62,8 +62,6 @@ comments: false
 	</li>
 	<li> LIAO Shubing, <i>Visiting Student</i> @SMU. (09.2023-10.2024)
 	</li>
-    <li> CHEN Jinbiao (with <a href="https://cse.sysu.edu.cn/content/2551" target="_blank"> Prof. WANG </a> and  <a href="https://cde.nus.edu.sg/isem/staff/qin-hanzhang/" target="_blank"> Prof. QIN </a>), <i>Visiting PhD Student</i> @NUS. (07.2023-08.2024)
-	</li>
     <li> GOH Yong Liang (with <a href="https://www.comp.nus.edu.sg/~leews/" target="_blank"> Prof. LEE </a>), <i>PhD Student</i> @NUS. (07.2023-Present)
 	</li>
 	<li> MA Yining (with <a href="https://personal.ntu.edu.sg/zhangj/" target="_blank"> Prof. ZHANG </a>), <i>Postdoc</i> @NTU. (07.2023-07.2024) ---> <i>Postdoc</i> @MIT
