@@ -34,9 +34,11 @@ comments: false
 
 	<li> <b>Chair/Co-Chair</b>: 
 		<ul>
-		<li>  Co-Chair of Workshop, ACM TRUST 2027.
+		<li> Workshop Chair, Organizing Committe of ACM TRUST 2027.
 	    </li>
-		<li>  Co-Chair of Award and Data Challenge, PHM-AP 2025.
+		<li> Co-Chair, The First International Workshop on Learning-assisted Algorithm Design, IJCAI, 2026.
+	    </li>
+		<li> Award and Data Challenge Chair, Organizing Committe of PHM-AP 2025.
 	    </li>
 		</ul>
 	</li>
