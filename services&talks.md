@@ -29,16 +29,23 @@ comments: false
 
 	
 <li>	    
-<b>Conference Organizing Committee/AC/SPC</b>:
+<b>Conference/Workshop Organizing Committee/AC/SPC</b>:
 	<ul>
 
-	<li> <b>Chair/Co-Chair</b>: 
+	<li> <b>Conference Organizing Committee</b>: 
 		<ul>
-		<li> Workshop Chair, Organizing Committe of ACM TRUST 2027.
+		<li> Workshop Chair, ACM TRUST 2027.
 	    </li>
+		<li> Award and Data Challenge Chair, PHM-AP 2025.
+	    </li>
+		</ul>
+	</li>
+
+	<li> <b>Workshop Organizing Committee</b>: 
+		<ul>
 		<li> Co-Chair, The First International Workshop on Learning-assisted Algorithm Design, IJCAI, 2026.
 	    </li>
-		<li> Award and Data Challenge Chair, Organizing Committe of PHM-AP 2025.
+		<li> Co-Chair, Collaborative and Trustworthy AI (CTAI) Workshop, SMU, 2026.
 	    </li>
 		</ul>
 	</li>
