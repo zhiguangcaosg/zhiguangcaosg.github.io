@@ -43,7 +43,7 @@ image: banner1.png
 </li>
 
 <li>	    
-06.2026:  I will serve as Senior PC for AAAI'27.
+06.2026:  I will serve as Area Chair for AAAI'27.
 </li>
 
 <li>	    
