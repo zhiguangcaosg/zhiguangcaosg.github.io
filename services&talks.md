@@ -65,8 +65,6 @@ comments: false
 	<li> <b>Senior PC</b>: 
 		<ul>
 			
-			<li> AAAI'27.
-			</li>
 			<li> AAAI'26.
 			</li>
 			<li> IJCAI'25, AAAI'25.
