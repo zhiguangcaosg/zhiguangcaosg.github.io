@@ -52,7 +52,7 @@ comments: false
 	
 	<li> <b>Area Chair</b>: 
 		<ul>
-		<li> AAAI'27.
+		<li> ICLR'27, AAAI'27.
 	        </li>
 		<li> NeurIPS'26, SIGKDD'26 (2nd Cycle), ICML'26, ICLR'26, SIGKDD'26 (1st Cycle).
 	        </li>
