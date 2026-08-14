@@ -38,16 +38,17 @@ image: banner1.png
 </li>
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
+
 <li>	    
-06.2026: I was awarded the Lee Kong Chian Fellowship for the second time. 
+08.2026:  I will serve as Area Chair for ICLR'27.
 </li>
 
 <li>	    
-06.2026:  I will serve as Area Chair for AAAI'27.
+07.2026: I was awarded the Lee Kong Chian Fellowship for the second time. 
 </li>
 
 <li>	    
-06.2026:  I will serve as Area Chair for AAAI'27.
+07.2026:  I will serve as Area Chair for AAAI'27.
 </li>
 
 <li>	    
