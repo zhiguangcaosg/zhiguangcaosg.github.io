@@ -39,7 +39,11 @@ image: banner1.png
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 <li>	    
-06.2026: I am serving as Action Editor for TMLR. 
+06.2026: I was awarded the Lee Kong Chian Fellowship for the second time. 
+</li>
+
+<li>	    
+06.2026:  I will serve as Area Chair for AAAI'27.
 </li>
 
 <li>	    
