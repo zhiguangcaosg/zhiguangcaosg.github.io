@@ -40,6 +40,10 @@ image: banner1.png
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
 <li>	    
+08.2026: One paper on AI4Opt got accepted at EMNLP-main'26. 
+</li>
+
+<li>	    
 08.2026:  I will serve as Area Chair for ICLR'27.
 </li>
 
