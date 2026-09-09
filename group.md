@@ -61,9 +61,17 @@ comments: false
 
 	<li> LIAO Shubing (CUG, CSC funded), <i>Visiting Student</i> @SMU. (09.2023-10.2024) ---> <i>Postdoc</i> @Tsinghua University
 	</li>
-	<li> YU Xiaoshan (Anhui University, AHU funded), <i>Visiting Student</i> @SMU. (02.2025-08.2025) ---><i>Postdoc</i> @SUTD
+	<li> YU Xiaoshan (Anhui University, Home university funded), <i>Visiting Student</i> @SMU. (02.2025-08.2025) ---><i>Postdoc</i> @SUTD
 	</li>
-    <li> WANG Conghui (CSU, CSU funded), <i>Visiting Student</i> @SMU. (12.2024-05.2025) ---><i>Postdoc</i> @CSU
+    <li> WANG Conghui (Central South University, Home university funded), <i>Visiting Student</i> @SMU. (12.2024-05.2025) ---><i>Postdoc</i> @CSU
+	</li>
+	<br>
+
+	<li> YAN Binxiao (Hefei University of Technology, CSC funded) with <a href="https://faculty.smu.edu.sg/profile/dai-bing-tian-361" target="_blank"> Prof. DAI </a>, <i>Visiting Student</i> @SMU. (09.2025-09.2026)
+	</li>
+	<li> ZHOU Yuhang (Hefei University of Technology, CSC funded) with <a href="https://faculty.smu.edu.sg/profile/dai-bing-tian-361" target="_blank"> Prof. DAI </a>, <i>Visiting Student</i> @SMU. (09.2025-09.2026)
+	</li>
+	<li> WANG Lingjun (Hefei University of Technology, CSC funded) with <a href="https://faculty.smu.edu.sg/profile/aldy-gunawan-386" target="_blank"> Prof. GUNAWAN </a>, <i>Visiting Student</i> @SMU. (06.2025-06.2026)
 	</li>
 	
     <br>
