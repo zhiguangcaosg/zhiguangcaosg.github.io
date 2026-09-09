@@ -67,7 +67,7 @@ comments: false
 	</li>
 	
     <br>
-	<li> ZHU Rongjie, <i>Remote Intern</i> @SMU. (07.2024-03.2026)
+	<li> ZHU Rongjie (NUIST), <i>Remote Intern</i> @SMU. (07.2024-03.2026)
 	</li>
 
 	<br>
