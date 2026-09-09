@@ -18,7 +18,7 @@ comments: false
 	</li>
 	<li> ZHANG Ni, <i>PhD Student</i> @SMU. (08.2025-Present)
 	</li>
-
+    <br>
     <li> ZHU Jianghan, <i>Research Engineer</i> @SMU. (03.2026-Present)
 	</li>
 	
@@ -43,7 +43,7 @@ comments: false
 	</li>	
 	
 	
-    	
+    <br>
     <li> LI Yuanshu (Jilin University, SMU funded), <i>Visiting Student</i> @SMU. (03.2026-Present)
 	</li>
 	<li> JING Mohan (Tsinghua University, SMU funded), <i>Visiting Student</i> @SMU. (09.2026-Present)
@@ -61,9 +61,11 @@ comments: false
     <li> WANG Conghui (CSU, CSU funded), <i>Visiting Student</i> @SMU. (12.2024-05.2025) ---><i>Postdoc</i> @CSU
 	</li>
 	
-
+    <br>
 	<li> ZHU Rongjie, <i>Remote Intern</i> @SMU. (07.2024-03.2026)
 	</li>
+
+	<br>
 	<li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU ---> <i>PhD Student</i> @SYSU
 	</li>
 	<li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU. (10.2023-10.2025) ---> <i>Postdoc</i> @SMU
