@@ -18,6 +18,11 @@ comments: false
 	</li>
 	<li> ZHANG Ni, <i>PhD Student</i> @SMU. (08.2025-Present)
 	</li>
+
+	<br>
+    <li> XU Kuan, <i>Postdoc</i> @SMU. (08.2026-Present)
+	</li>
+	
     <br>
     <li> ZHU Jianghan, <i>Research Engineer</i> @SMU. (03.2026-Present)
 	</li>
