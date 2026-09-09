@@ -34,8 +34,7 @@ comments: false
 	<li> MALIK Manuj, <i>Research Engineer</i> @SMU. (10.2024-10.2025)
 	</li>
 	
-    <li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU. (10.2023-10.2025) ---> <i>Postdoc</i> @SMU
-	</li>
+    
 
 	<li> YU Yue, <i>Research Engineer</i> @SMU. (10.2025-04.2026) --->  <i>PhD Student</i> @Eindhoven University of Technology
 	</li>
@@ -43,8 +42,7 @@ comments: false
 	<li> SHEN Bolin, <i>Research Engineer</i> @SMU. (09.2024-11.2024) --->  <i>PhD Student</i> @Florida State University
 	</li>	
 	
-	<li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU ---> <i>PhD Student</i> @SYSU
-	</li>
+	
     	
     <li> LI Yuanshu (Jilin University, SMU funded), <i>Visiting Student</i> @SMU. (03.2026-Present)
 	</li>
@@ -65,6 +63,10 @@ comments: false
 	
 
 	<li> ZHU Rongjie, <i>Remote Intern</i> @SMU. (07.2024-03.2026)
+	</li>
+	<li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU ---> <i>PhD Student</i> @SYSU
+	</li>
+	<li> ZHANG Zhiqin (with <a href="http://www.mysmu.edu/faculty/hclau/" target="_blank"> Prof. LAU </a>), <i>PhD Student</i> @SMU. (10.2023-10.2025) ---> <i>Postdoc</i> @SMU
 	</li>
     <li> GOH Yong Liang (with <a href="https://www.comp.nus.edu.sg/~leews/" target="_blank"> Prof. LEE </a>), <i>PhD Student</i> @NUS. (07.2023-03.2026)
 	</li>
