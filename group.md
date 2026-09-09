@@ -42,10 +42,10 @@ comments: false
 		
 	<li> SHEN Bolin, <i>Research Engineer</i> @SMU. (09.2024-11.2024) --->  <i>PhD Student</i> @Florida State University
 	</li>	
+	
 	<li> LIU Suyu (with <a href="https://liziliao.github.io/" target="_blank"> Prof. LIAO </a>), <i>Master Student</i> @SMU. (11.2023-08.2024) ---> <i>Research Associate</i> @NTU ---> <i>PhD Student</i> @SYSU
 	</li>
     	
-	</li>
     <li> LI Yuanshu (Jilin University, SMU funded), <i>Visiting Student</i> @SMU. (03.2026-Present)
 	</li>
 	<li> JING Mohan (Tsinghua University, SMU funded), <i>Visiting Student</i> @SMU. (09.2026-Present)
