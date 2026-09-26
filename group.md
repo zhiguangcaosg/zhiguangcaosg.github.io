@@ -33,7 +33,7 @@ comments: false
 	<li> HUANG Ziwei, <i>Research Engineer</i> @SMU. (07.2024-08.206) ---> <i>PhD Student</i> @Emory University
 	</li>
 		
-	<li> GUI Shuangchun, <i>Research Engineer</i> @SMU. (08.2024-Present) ---> <i>PhD Student</i> @Fudan University
+	<li> GUI Shuangchun, <i>Research Engineer</i> @SMU. (08.2024-08.2026) ---> <i>PhD Student</i> @Fudan University
 	</li>
 	
 	<li> MALIK Manuj, <i>Research Engineer</i> @SMU. (10.2024-10.2025)
