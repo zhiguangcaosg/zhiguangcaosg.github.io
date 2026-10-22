@@ -12,6 +12,8 @@ comments: false
 <li>	    
 <b>Ongoing</b>:
 	<ul>
+	<li> <b>PI</b>: <i> Schedule-Conditioned World Models for Reliable Semiconductor Fab Scheduling</i> - MOE Tier 1 (Cat B), 2026-2028.
+	</li>
 	<li> <b>PI</b>: <i> Towards Practical Neural Solvers for Vehicle Routing Problems</i> - MOE Tier 2, 2026-2029 (with NTU&MIT).
 	</li>
 	<li> <b>PI</b>: <i> VISTA: A Value-Informed Safety & Trust Architecture for Autonomous Agents</i> - AISG, 2026-2028 (with NUS).
@@ -33,7 +35,7 @@ comments: false
 <li>	    
 <b>Completed</b>:
 	<ul>
-		<li> <b>PI</b>: <i> Learning Robust Neural Heuristic for Solving Vehicle Routing Problems in Logistics</i> - Ministry of Education (MOE) Tier 1, 2023-2024. 
+		<li> <b>PI</b>: <i> Learning Robust Neural Heuristic for Solving Vehicle Routing Problems in Logistics</i> - MOE Tier 1 (Cat A), 2023-2024. 
 	</li>
         <li> <b>PI</b>: <i> Towards Generalizable Deep Models for Solving Vehicle Routing Problems in Logistics</i> - A*STAR Career Development Fund, 2022-2023.
 	</li>
