@@ -20,8 +20,7 @@ comments: false
 	</li>
 	<li> <b>Co-PI (SMU PI)</b>: <i> Trustworthy Human-AI Combinatorial Optimization with Language Feedback</i> - AISG, 2025-2027 (with NTU&MIT).
 	</li>
-	<li> <b>Co-PI </b>: <i> Deploying Mobile Crowdsourcing Emergency Supplies to Improve Emergency Response Times</i> - SMU-UofT Grant, 2025-2026.
-	</li>
+	
 	<li> <b>Co-PI (SMU PI)</b>: <i> Learning Assisted Human-AI Collaboration for Large-scale Practical Combinatorial Optimization</i> - AISG, 2024-2029.
 	</li>
 	  </ul>
@@ -35,6 +34,8 @@ comments: false
 <li>	    
 <b>Completed</b>:
 	<ul>
+		<li> <b>Co-PI </b>: <i> Deploying Mobile Crowdsourcing Emergency Supplies to Improve Emergency Response Times</i> - SMU-UofT Grant, 2025-2026.
+	</li>
 		<li> <b>PI</b>: <i> Learning Robust Neural Heuristic for Solving Vehicle Routing Problems in Logistics</i> - MOE Tier 1 (Cat A), 2023-2024. 
 	</li>
         <li> <b>PI</b>: <i> Towards Generalizable Deep Models for Solving Vehicle Routing Problems in Logistics</i> - A*STAR Career Development Fund, 2022-2023.
