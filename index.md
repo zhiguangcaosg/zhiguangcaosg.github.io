@@ -39,6 +39,16 @@ image: banner1.png
 
 <h3 style="margin-bottom:-8px;padding-top:20px;">News</h3> <br>
 
+
+<li>	    
+11.2026: three papers on AI4Opt got accepted at SIGKDD'27. 
+</li>
+<li>	    
+11.2026: I will serve as Associate Editor for TEVC. 
+</li>
+<li>	    
+10.2026: I will serve as Area Chair for ICML'27. 
+</li>
 <li>	    
 09.2026: four papers on AI4Opt got accepted at NeurIPS'26. 
 </li>
