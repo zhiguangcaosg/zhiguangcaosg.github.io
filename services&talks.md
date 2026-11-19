@@ -15,6 +15,8 @@ comments: false
 	<ul>
 	<li> <b>Associate Editor</b>, <a href="https://cis.ieee.org/publications/t-evolutionary-computation" target="_blank"> IEEE Transactions on Evolutionary Computation</a>, 2026 - present.
 	</li>
+	<li> <b>Associate Editor</b>, <a href="https://cis.ieee.org/publications/t-evolutionary-computation" target="_blank"> IEEE Computational Intelligence Letters</a>, 2026 - present.
+	</li>
 	<li> <b>Action Editor</b>, <a href="https://jmlr.org/tmlr/" target="_blank"> Transactions on Machine Learning Research</a>, 2026 - present.
 	</li>
 	<li> <b>Associate Editor</b>, <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics" target="_blank"> IEEE Transactions on Industrial Informatics</a>, 2025 - present.
