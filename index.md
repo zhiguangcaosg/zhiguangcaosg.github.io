@@ -44,7 +44,7 @@ image: banner1.png
 11.2026: three papers on AI4Opt got accepted at SIGKDD'27. 
 </li>
 <li>	    
-11.2026: I will serve as Associate Editor for TEVC. 
+11.2026: I will serve as Associate Editor for TEVC and CIL. 
 </li>
 <li>	    
 10.2026: I will serve as Area Chair for ICML'27. 
